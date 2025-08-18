@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "top-interview-150"
+name = "LeetCodeByNight"
 version = "0.1.0"

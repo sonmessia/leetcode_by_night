@@ -1,7 +1,13 @@
-mod merge_sorted_array;
+mod Array_String {
+    pub mod merge_sorted_array;
+}
+
+mod daily_question {
+    pub mod twenty_four_game; // Corrected module name to match the file name
+}
+use crate::Array_String::merge_sorted_array;
 
 use merge_sorted_array::Solution;
-
 
 fn main() {
   let mut nums1 = vec![1, 2, 3, 0, 0, 0];
