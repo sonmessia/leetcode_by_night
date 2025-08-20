@@ -3,7 +3,9 @@ mod Array_String {
 }
 
 mod daily_question {
-    pub mod twenty_four_game; // Corrected module name to match the file name
+    pub mod twenty_four_game;
+    pub mod number_of_zero_filled_subarrays;
+    pub mod count_square_submatrices_with_all_ones;
 }
 use crate::Array_String::merge_sorted_array;
 
