@@ -1,3 +1,8 @@
 /target
 *.exe
 *.pdb
+# Ignore Rust executables (no extension)
+*
+!*/
+!*.rs
+
