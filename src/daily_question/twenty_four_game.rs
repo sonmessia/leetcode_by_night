@@ -22,12 +22,7 @@ impl Solution {
 
                     let (a, b) = (nums[i], nums[j]);
 
-                    let mut candidates = vec![
-                        a + b,
-                        a - b,
-                        b - a,
-                        a * b
-                    ];
+                    let mut candidates = vec![a + b, a - b, b - a, a * b];
                     if b.abs() > EPS {
                         candidates.push(a / b);
                     }
@@ -46,7 +41,7 @@ impl Solution {
             }
             false
         }
-        dfs(nums)   
+        dfs(nums)
     }
 }
 fn main() {

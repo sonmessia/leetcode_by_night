@@ -23,5 +23,8 @@ impl Solution {
 fn main() {
     let dimensions = vec![vec![9, 3], vec![3, 4], vec![5, 6], vec![8, 6]];
     let result = Solution::area_of_max_diagonal(dimensions);
-    println!("The area of the rectangle with the maximum diagonal is: {}", result);
+    println!(
+        "The area of the rectangle with the maximum diagonal is: {}",
+        result
+    );
 }

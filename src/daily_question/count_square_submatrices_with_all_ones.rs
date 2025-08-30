@@ -11,8 +11,9 @@ impl Solution {
         for i in 0..row {
             for j in 0..col {
                 if matrix[i][j] == 1 {
-                    dp[i+1][j+1] = std::cmp::min(dp[i][j+1], std::cmp::min(dp[i+1][j], dp[i][j])) + 1;
-                    ans += dp[i+1][j+1];
+                    dp[i + 1][j + 1] =
+                        std::cmp::min(dp[i][j + 1], std::cmp::min(dp[i + 1][j], dp[i][j])) + 1;
+                    ans += dp[i + 1][j + 1];
                 }
             }
         }
@@ -20,13 +21,8 @@ impl Solution {
     }
 }
 
-
 fn main() {
-    let matrix = vec![
-        vec![0, 1, 1, 1],
-        vec![1, 1, 1, 1],
-        vec![0, 1, 1, 1],
-    ];
+    let matrix = vec![vec![0, 1, 1, 1], vec![1, 1, 1, 1], vec![0, 1, 1, 1]];
     let result = Solution::count_squares(matrix);
     println!("Number of square submatrices with all ones: {}", result);
 }
