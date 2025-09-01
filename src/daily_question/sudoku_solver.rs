@@ -55,6 +55,6 @@ fn main() {
         vec!['.', '.', '.', '4', '1', '9', '.', '.', '5'],
         vec!['.', '.', '.', '.', '8', '.', '.', '7', '9'],
     ];
-        Solution::solve_sudoku(&mut board);
-        println!("{:?}", board);
+    Solution::solve_sudoku(&mut board);
+    println!("{:?}", board);
 }
