@@ -10,6 +10,7 @@ impl Solution {
             }
         });
 
+        println!("{:?}", p);
         let n = p.len();
         let mut ans = 0;
 
@@ -28,7 +29,17 @@ impl Solution {
 }
 
 fn main() {
-    let p = vec![vec![1, 2], vec![2, 3], vec![3, 4], vec![5, 6]];
+    let p = vec![
+        vec![25, 25],
+        vec![30, 30],
+        vec![35, 35],
+        vec![40, 40],
+        vec![45, 45],
+        vec![20, 30],
+        vec![15, 35],
+        vec![10, 40],
+        vec![5, 45],
+    ];
     let result = Solution::number_of_pairs(p);
     println!("Number of valid pairs: {}", result); // Output: 0
 }
