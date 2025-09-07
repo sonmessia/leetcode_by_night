@@ -1,5 +1,10 @@
-mod daily_problem {
-    pub mod find_the_number_of_ways_to_place_people;
-}
+mod daily_problem;
+mod random_problem;
+
+#[warn(unused_imports)]
+use daily_problem::*;
+
+#[warn(unused_imports)]
+use random_problem::*;
 
 fn main() {}

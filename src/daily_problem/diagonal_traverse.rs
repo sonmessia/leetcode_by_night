@@ -17,15 +17,14 @@ impl Solution {
                     i -= 1;
                     j += 1;
                 }
+            }
+            if i == n - 1 {
+                j += 1;
+            } else if j == 0 {
+                i += 1;
             } else {
-                if i == n - 1 {
-                    j += 1;
-                } else if j == 0 {
-                    i += 1;
-                } else {
-                    i += 1;
-                    j -= 1;
-                }
+                i += 1;
+                j -= 1;
             }
         }
         ans
