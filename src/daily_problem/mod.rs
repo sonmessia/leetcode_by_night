@@ -1,4 +1,5 @@
 pub mod alice_and_bob_playing_flower_game;
+pub mod convert_integer_to_the_sum_of_two_no_zero_integers;
 pub mod count_square_submatrices_with_all_ones;
 pub mod count_submatrices_with_all_ones;
 pub mod diagonal_traverse;
