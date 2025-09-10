@@ -9,3 +9,5 @@ pub mod search_in_rotated_sorted_array;
 pub mod search_in_rotated_sorted_array_ii;
 pub mod shift_2d_grid;
 pub mod sliding_window_maximum;
+pub mod transpose_matrix;
+
