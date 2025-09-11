@@ -1,5 +1,7 @@
+#[allow(dead_code)]
 struct Solution;
 
+#[allow(dead_code)]
 impl Solution {
     pub fn pancake_sort(arr: Vec<i32>) -> Vec<i32> {
         let mut arr = arr;
@@ -20,6 +22,7 @@ impl Solution {
     }
 }
 
+#[allow(dead_code)]
 fn main() {
     let arr = vec![3, 2, 4, 1];
     let result = Solution::pancake_sort(arr);
