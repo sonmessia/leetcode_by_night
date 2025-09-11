@@ -3,6 +3,7 @@ pub mod count_the_number_of_incremovable_subarrays_i;
 pub mod daily_temperatures;
 pub mod find_winner_on_a_tic_tac_toe_game;
 pub mod min_stack;
+pub mod pancake_sorting;
 pub mod rectangle_area;
 pub mod rotate_list;
 pub mod search_in_rotated_sorted_array;
@@ -10,4 +11,3 @@ pub mod search_in_rotated_sorted_array_ii;
 pub mod shift_2d_grid;
 pub mod sliding_window_maximum;
 pub mod transpose_matrix;
-
