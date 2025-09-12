@@ -2,6 +2,7 @@ pub mod car_fleet;
 pub mod count_the_number_of_incremovable_subarrays_i;
 pub mod daily_temperatures;
 pub mod find_winner_on_a_tic_tac_toe_game;
+pub mod maximum_length_of_pair_chain;
 pub mod min_stack;
 pub mod number_of_students_doing_homework_at_a_given_time;
 pub mod pancake_sorting;
