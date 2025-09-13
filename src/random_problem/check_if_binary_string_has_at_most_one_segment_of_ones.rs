@@ -3,15 +3,31 @@ struct Solution;
 impl Solution {
     pub fn check_ones_segment(s: String) -> bool {
         let chars: Vec<char> = s.chars().collect();
-        if chars.len() == 1 && chars[0] == '1' {
-            return true;
-        }
-        for i in 0..(chars.len() - 1) {
-            if chars[i] == chars[i + 1] && chars[i] == '1' {
-                return true;
+        let n = chars.len();
+        let (mut left, mut right) = (0, n - 1);
+        while left < n {
+            if chars[left] == '1' {
+                break;
             }
+            left += 1;
         }
 
-        false
+        while right >= 0 {
+            if chars[right] == '1' {
+                break;
+            }
+            right -= 1;
+        }
+
+        if left == right {
+            return true;
+        }
+
+        for i in (left + 1)..right {
+            if chars[i] == '0' {
+                return false;
+            }
+        }
+        true
     }
 }
