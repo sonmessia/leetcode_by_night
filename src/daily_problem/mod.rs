@@ -3,6 +3,7 @@ pub mod convert_integer_to_the_sum_of_two_no_zero_integers;
 pub mod count_square_submatrices_with_all_ones;
 pub mod count_submatrices_with_all_ones;
 pub mod diagonal_traverse;
+pub mod find_most_frequent_vowel_and_consonant;
 pub mod find_n_unique_integers_sum_up_to_zero;
 pub mod find_the_number_of_ways_to_place_people;
 pub mod find_the_number_of_ways_to_place_people_ii;
@@ -17,4 +18,3 @@ pub mod sudoku_solver;
 pub mod twenty_four_game;
 pub mod valid_sudoku;
 pub mod vowels_game_in_a_string;
-
