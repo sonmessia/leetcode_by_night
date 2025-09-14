@@ -7,6 +7,7 @@ pub mod find_winner_on_a_tic_tac_toe_game;
 pub mod hash_divided_string;
 pub mod longest_non_decreasing_subarray_from_two_arrays;
 pub mod maximum_length_of_pair_chain;
+pub mod maximum_prime_difference;
 pub mod min_stack;
 pub mod non_decreasing_subsequences;
 pub mod number_of_students_doing_homework_at_a_given_time;
