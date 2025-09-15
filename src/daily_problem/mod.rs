@@ -9,6 +9,7 @@ pub mod find_the_number_of_ways_to_place_people;
 pub mod find_the_number_of_ways_to_place_people_ii;
 pub mod maximum_area_of_longest_diagonal_rectangle;
 pub mod maximum_average_pass_ratio;
+pub mod maximum_number_of_words_you_can_type;
 pub mod minimum_number_of_people_to_teach;
 pub mod number_of_people_aware_of_a_secret;
 pub mod number_of_zero_filled_subarrays;
