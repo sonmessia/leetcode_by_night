@@ -10,6 +10,7 @@ pub mod maximum_length_of_pair_chain;
 pub mod maximum_prime_difference;
 pub mod min_stack;
 pub mod non_decreasing_subsequences;
+pub mod number_of_pairs_of_interchangeable_rectangles;
 pub mod number_of_students_doing_homework_at_a_given_time;
 pub mod pancake_sorting;
 pub mod parallels_courses_ii;
