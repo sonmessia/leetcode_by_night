@@ -12,7 +12,7 @@ impl Solution {
             left += 1;
         }
 
-        while right >= 0 {
+        while right as i32 >= 0 {
             if chars[right] == '1' {
                 break;
             }
