@@ -13,6 +13,7 @@ pub mod maximum_number_of_words_you_can_type;
 pub mod minimum_number_of_people_to_teach;
 pub mod number_of_people_aware_of_a_secret;
 pub mod number_of_zero_filled_subarrays;
+pub mod replace_non_coprime_numbers_in_array;
 pub mod sort_matrix_by_diagonals;
 pub mod sort_vowels_in_a_string;
 pub mod sudoku_solver;
