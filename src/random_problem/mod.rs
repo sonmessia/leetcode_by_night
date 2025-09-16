@@ -14,6 +14,7 @@ pub mod number_of_students_doing_homework_at_a_given_time;
 pub mod pancake_sorting;
 pub mod parallels_courses_ii;
 pub mod rectangle_area;
+pub mod remove_all_adjacent_duplicates_in_string_ii;
 pub mod rotate_list;
 pub mod search_in_rotated_sorted_array;
 pub mod search_in_rotated_sorted_array_ii;
