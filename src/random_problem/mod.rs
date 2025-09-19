@@ -4,6 +4,7 @@ pub mod check_if_binary_string_has_at_most_one_segment_of_ones;
 pub mod count_nice_pairs_in_an_array;
 pub mod count_the_number_of_incremovable_subarrays_i;
 pub mod daily_temperatures;
+pub mod excel_sheet_column_number;
 pub mod excel_sheet_column_title;
 pub mod find_subtree_sizes_after_change;
 pub mod find_winner_on_a_tic_tac_toe_game;
