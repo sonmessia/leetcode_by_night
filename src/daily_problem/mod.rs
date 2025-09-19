@@ -3,6 +3,7 @@ pub mod convert_integer_to_the_sum_of_two_no_zero_integers;
 pub mod count_square_submatrices_with_all_ones;
 pub mod count_submatrices_with_all_ones;
 pub mod design_a_food_rating_system;
+pub mod design_spreadsheet;
 pub mod design_task_manager;
 pub mod diagonal_traverse;
 pub mod find_most_frequent_vowel_and_consonant;
