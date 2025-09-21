@@ -9,6 +9,7 @@ pub mod excel_sheet_column_title;
 pub mod find_subtree_sizes_after_change;
 pub mod find_winner_on_a_tic_tac_toe_game;
 pub mod hash_divided_string;
+pub mod intersection_of_multiple_arrays;
 pub mod k_diff_pairs_in_an_array;
 pub mod longest_non_decreasing_subarray_from_two_arrays;
 pub mod maximum_length_of_pair_chain;
