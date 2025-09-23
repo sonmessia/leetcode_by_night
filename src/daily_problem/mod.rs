@@ -1,4 +1,5 @@
 pub mod alice_and_bob_playing_flower_game;
+pub mod compare_version_numbers;
 pub mod convert_integer_to_the_sum_of_two_no_zero_integers;
 pub mod count_elements_with_maximum_frequency;
 pub mod count_square_submatrices_with_all_ones;
