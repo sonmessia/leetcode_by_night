@@ -21,6 +21,7 @@ impl Solution {
             total = rest + new_value;
             heap.push(new_value);
         }
+
         true
     }
 }
