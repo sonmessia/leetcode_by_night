@@ -17,6 +17,7 @@ pub mod longest_non_decreasing_subarray_from_two_arrays;
 pub mod maximum_length_of_pair_chain;
 pub mod maximum_prime_difference;
 pub mod min_stack;
+pub mod minimum_amount_of_time_to_fill_cups;
 pub mod minimum_deletions_for_at_most_k_distinct_characters;
 pub mod most_popular_video_creator;
 pub mod non_decreasing_subsequences;
