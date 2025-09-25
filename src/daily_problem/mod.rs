@@ -25,6 +25,7 @@ pub mod replace_non_coprime_numbers_in_array;
 pub mod sort_matrix_by_diagonals;
 pub mod sort_vowels_in_a_string;
 pub mod sudoku_solver;
+pub mod triangle;
 pub mod twenty_four_game;
 pub mod valid_sudoku;
 pub mod vowel_spellchecker;
