@@ -1,14 +1,13 @@
 struct Solution;
 
 impl Solution {
-    pub fn minimum_total(triangle: Vec<Vec<i32>>) -> i32 {
+    pub fn minimum_total(mut triangle: Vec<Vec<i32>>) -> i32 {
         let n = triangle.len();
-        let mut dp = vec![0; n + 1];
-        for i in (0..n).rev() {
+        for i in (0..(n - 1)).rev() {
             for j in 0..=i {
-                dp[j] = dp[j].min(dp[j + 1]) + triangle[i][j];
+                triangle[i][j] += std::cmp::min(triangle[i + 1][j], triangle[i + 1][j + 1]);
             }
         }
-        dp[0]
+        triangle[0][0]
     }
 }

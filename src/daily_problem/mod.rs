@@ -28,5 +28,6 @@ pub mod sudoku_solver;
 pub mod triangle;
 pub mod twenty_four_game;
 pub mod valid_sudoku;
+pub mod valid_triangle_number;
 pub mod vowel_spellchecker;
 pub mod vowels_game_in_a_string;
