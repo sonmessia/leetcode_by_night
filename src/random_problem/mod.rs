@@ -1,3 +1,4 @@
+pub mod can_i_win;
 pub mod car_fleet;
 pub mod check_array_formation_through_concatenation;
 pub mod check_if_binary_string_has_at_most_one_segment_of_ones;
