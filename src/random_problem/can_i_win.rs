@@ -1,53 +1,59 @@
+use std::collections::HashMap;
+
 struct Solution;
 
 impl Solution {
     pub fn can_i_win(max_choosable_integer: i32, desired_total: i32) -> bool {
-        fn backtrack(
-            choice_array: &Vec<i32>,
-            curr_sum: &mut i32,
-            turn: usize,
-            desired_total: &mut i32,
-            used: &mut Vec<bool>,
-        ) -> bool {
-            if curr_sum >= desired_total {
-                return turn % 2 == 0;
-            }
-
-            let mut force_win = true;
-            for i in 0..choice_array.len() {
-                if used[choice_array[i] as usize] {
-                    continue;
-                }
-                used[choice_array[i] as usize] = true;
-                *curr_sum += choice_array[i];
-                let res = backtrack(choice_array, curr_sum, turn + 1, desired_total, used);
-                force_win &= res;
-                *curr_sum -= choice_array[i];
-                used[choice_array[i] as usize] = false;
-            }
-
-            force_win
-        }
-
-        if desired_total <= 0 || desired_total <= max_choosable_integer {
+        if max_choosable_integer >= desired_total || desired_total <= 0 {
             return true;
         }
-        let mut max_sum = (1 + max_choosable_integer) * max_choosable_integer / 2;
-        if max_sum < desired_total {
+
+        let sum: i64 = (1 + max_choosable_integer) as i64 * max_choosable_integer as i64 / 2;
+        if sum < desired_total as i64 {
             return false;
         }
 
-        let choice_array = (1..=max_choosable_integer).collect::<Vec<i32>>();
-        let mut curr_sum = 0;
-        let mut turn = 0;
-        let mut used = vec![false; max_choosable_integer as usize + 1];
-        let mut desired_total = desired_total;
-        backtrack(
-            &choice_array,
-            &mut curr_sum,
-            turn,
-            &mut desired_total,
-            &mut used,
-        )
+        let mut memo = HashMap::new();
+        fn dfs(
+            used_mask: i32,
+            target: i32,
+            memo: &mut HashMap<i32, bool>,
+            max_choosable_integer: i32,
+        ) -> bool {
+            if target <= 0 {
+                return false;
+            }
+
+            if let Some(&result) = memo.get(&used_mask) {
+                return result;
+            }
+
+            for i in 1..=max_choosable_integer {
+                let current_bit = 1 << (i - 1);
+                if used_mask & current_bit == 0
+                    && !dfs(
+                        used_mask | current_bit,
+                        target - i,
+                        memo,
+                        max_choosable_integer,
+                    )
+                {
+                    memo.insert(used_mask, true);
+                    return true;
+                }
+            }
+
+            memo.insert(used_mask, false);
+            false
+        }
+
+        dfs(0, desired_total, &mut memo, max_choosable_integer)
     }
+}
+
+fn main() {
+    let max_choosable_integer = 5;
+    let desired_total = 6;
+    let result = Solution::can_i_win(max_choosable_integer, desired_total);
+    println!("Can I win? {}", result); // Output: Can I win? false
 }
