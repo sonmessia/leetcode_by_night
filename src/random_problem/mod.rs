@@ -19,6 +19,7 @@ pub mod k_diff_pairs_in_an_array;
 pub mod largest_perimeter_triangle;
 pub mod longest_non_decreasing_subarray_from_two_arrays;
 pub mod longest_repeating_character_replacement;
+pub mod maximize_the_confusion_of_an_exam;
 pub mod maximum_length_of_pair_chain;
 pub mod maximum_prime_difference;
 pub mod maximum_subarray;
