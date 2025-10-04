@@ -20,6 +20,10 @@ impl Solution {
         }
         // println!("{} {}", i, j);
 
+        if i == n - 1 || j == 0 {
+            return 0;
+        }
+
         for k in (i + 1)..=j {
             if height[k] >= height[i] {
                 ans += ((k as i32 - i as i32 - 1) * height[i]) - curr_sum;
@@ -32,7 +36,7 @@ impl Solution {
 
         curr_sum = 0;
 
-        // println!("{} {}", i, j);
+        println!("{} {}", i, j);
 
         for k in (i..j).rev() {
             if height[k] >= height[j] {

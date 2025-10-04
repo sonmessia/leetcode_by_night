@@ -1,5 +1,6 @@
 pub mod alice_and_bob_playing_flower_game;
 pub mod compare_version_numbers;
+pub mod container_with_most_water;
 pub mod convert_integer_to_the_sum_of_two_no_zero_integers;
 pub mod count_elements_with_maximum_frequency;
 pub mod count_square_submatrices_with_all_ones;
@@ -28,7 +29,6 @@ pub mod replace_non_coprime_numbers_in_array;
 pub mod sort_matrix_by_diagonals;
 pub mod sort_vowels_in_a_string;
 pub mod sudoku_solver;
-pub mod trapping_rain_water_ii;
 pub mod triangle;
 pub mod twenty_four_game;
 pub mod valid_sudoku;
