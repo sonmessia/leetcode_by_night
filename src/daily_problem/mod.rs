@@ -25,6 +25,7 @@ pub mod minimum_number_of_people_to_teach;
 pub mod minimum_score_triangulation_of_polygon;
 pub mod number_of_people_aware_of_a_secret;
 pub mod number_of_zero_filled_subarrays;
+pub mod pacific_atlantic_water_flow;
 pub mod replace_non_coprime_numbers_in_array;
 pub mod sort_matrix_by_diagonals;
 pub mod sort_vowels_in_a_string;
