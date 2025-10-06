@@ -33,6 +33,7 @@ pub mod number_of_students_doing_homework_at_a_given_time;
 pub mod online_election;
 pub mod pancake_sorting;
 pub mod parallels_courses_ii;
+pub mod path_with_minimum_effort;
 pub mod predict_the_winner;
 pub mod prison_cells_after_n_days;
 pub mod rank_teams_by_votes;
