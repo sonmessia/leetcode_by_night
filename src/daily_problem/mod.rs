@@ -1,4 +1,5 @@
 pub mod alice_and_bob_playing_flower_game;
+pub mod avoid_flood_in_the_city;
 pub mod compare_version_numbers;
 pub mod container_with_most_water;
 pub mod convert_integer_to_the_sum_of_two_no_zero_integers;
