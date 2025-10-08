@@ -30,6 +30,7 @@ pub mod pacific_atlantic_water_flow;
 pub mod replace_non_coprime_numbers_in_array;
 pub mod sort_matrix_by_diagonals;
 pub mod sort_vowels_in_a_string;
+pub mod successful_pairs_of_spells_and_potions;
 pub mod sudoku_solver;
 pub mod swim_in_rising_water;
 pub mod triangle;
