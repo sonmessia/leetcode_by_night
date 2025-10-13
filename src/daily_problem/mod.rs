@@ -13,6 +13,7 @@ pub mod design_task_manager;
 pub mod diagonal_traverse;
 pub mod find_most_frequent_vowel_and_consonant;
 pub mod find_n_unique_integers_sum_up_to_zero;
+pub mod find_the_minimum_amount_of_time_to_brew_potions;
 pub mod find_the_number_of_ways_to_place_people;
 pub mod find_the_number_of_ways_to_place_people_ii;
 pub mod find_triangular_sum_of_an_array;
