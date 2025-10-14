@@ -45,5 +45,6 @@ pub mod search_in_rotated_sorted_array;
 pub mod search_in_rotated_sorted_array_ii;
 pub mod shift_2d_grid;
 pub mod sliding_window_maximum;
+pub mod taking_maximum_energy_from_the_mystic_dungeon;
 pub mod transpose_matrix;
 pub mod trapping_rain_water;
