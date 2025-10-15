@@ -1,4 +1,5 @@
 pub mod adjacent_increasing_subarrays_detection_i;
+pub mod adjacent_increasing_subarrays_detection_ii;
 pub mod alice_and_bob_playing_flower_game;
 pub mod avoid_flood_in_the_city;
 pub mod compare_version_numbers;
