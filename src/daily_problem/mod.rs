@@ -25,6 +25,7 @@ pub mod implement_router;
 pub mod largest_triangle_area;
 pub mod maximum_area_of_longest_diagonal_rectangle;
 pub mod maximum_average_pass_ratio;
+pub mod maximum_number_of_distinct_elements_after_operations;
 pub mod maximum_number_of_words_you_can_type;
 pub mod minimum_number_of_people_to_teach;
 pub mod minimum_score_triangulation_of_polygon;
