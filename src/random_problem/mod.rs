@@ -24,6 +24,7 @@ pub mod maximize_the_confusion_of_an_exam;
 pub mod maximum_length_of_pair_chain;
 pub mod maximum_prime_difference;
 pub mod maximum_subarray;
+pub mod maximum_total_damage_with_spell_casting;
 pub mod min_stack;
 pub mod minimum_amount_of_time_to_fill_cups;
 pub mod minimum_deletions_for_at_most_k_distinct_characters;
