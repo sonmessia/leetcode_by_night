@@ -18,6 +18,7 @@ pub mod insert_delete_getrandom_o1_duplicates_allowed;
 pub mod intersection_of_multiple_arrays;
 pub mod k_diff_pairs_in_an_array;
 pub mod largest_perimeter_triangle;
+pub mod least_number_of_unique_integers_after_k_removals;
 pub mod longest_non_decreasing_subarray_from_two_arrays;
 pub mod longest_repeating_character_replacement;
 pub mod maximize_the_confusion_of_an_exam;
