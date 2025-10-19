@@ -23,6 +23,7 @@ pub mod find_triangular_sum_of_an_array;
 pub mod fraction_to_recurring_decimal;
 pub mod implement_router;
 pub mod largest_triangle_area;
+pub mod lexicographically_smallest_string_after_applying_operations;
 pub mod maximum_area_of_longest_diagonal_rectangle;
 pub mod maximum_average_pass_ratio;
 pub mod maximum_number_of_distinct_elements_after_operations;
