@@ -13,6 +13,7 @@ pub mod design_movie_rental_system;
 pub mod design_spreadsheet;
 pub mod design_task_manager;
 pub mod diagonal_traverse;
+pub mod final_value_of_variable_after_performing_operations;
 pub mod find_most_frequent_vowel_and_consonant;
 pub mod find_n_unique_integers_sum_up_to_zero;
 pub mod find_resultant_array_after_removing_anagrams;
