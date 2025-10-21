@@ -13,6 +13,7 @@ pub mod find_subtree_sizes_after_change;
 pub mod find_the_safest_path_in_a_grid;
 pub mod find_the_winning_player_in_coin_game;
 pub mod find_winner_on_a_tic_tac_toe_game;
+pub mod frequency_of_the_most_frequent_element;
 pub mod hash_divided_string;
 pub mod insert_delete_getrandom_o1_duplicates_allowed;
 pub mod intersection_of_multiple_arrays;
