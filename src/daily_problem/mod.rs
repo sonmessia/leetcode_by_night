@@ -28,6 +28,7 @@ pub mod lexicographically_smallest_string_after_applying_operations;
 pub mod maximum_area_of_longest_diagonal_rectangle;
 pub mod maximum_average_pass_ratio;
 pub mod maximum_frequency_of_an_element_after_performing_operations_i;
+pub mod maximum_frequency_of_an_element_after_performing_operations_ii;
 pub mod maximum_number_of_distinct_elements_after_operations;
 pub mod maximum_number_of_words_you_can_type;
 pub mod minimum_number_of_people_to_teach;
