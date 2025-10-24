@@ -11,6 +11,7 @@ pub mod excel_sheet_column_title;
 pub mod find_polygon_with_the_largest_perimeter;
 pub mod find_subtree_sizes_after_change;
 pub mod find_the_safest_path_in_a_grid;
+pub mod find_the_width_of_columns_of_a_grid;
 pub mod find_the_winning_player_in_coin_game;
 pub mod find_winner_on_a_tic_tac_toe_game;
 pub mod frequency_of_the_most_frequent_element;
