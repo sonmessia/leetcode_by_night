@@ -40,6 +40,7 @@ pub mod number_of_people_aware_of_a_secret;
 pub mod number_of_zero_filled_subarrays;
 pub mod pacific_atlantic_water_flow;
 pub mod replace_non_coprime_numbers_in_array;
+pub mod simple_bank_system;
 pub mod sort_matrix_by_diagonals;
 pub mod sort_vowels_in_a_string;
 pub mod successful_pairs_of_spells_and_potions;
