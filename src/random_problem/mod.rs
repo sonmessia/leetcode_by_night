@@ -33,6 +33,7 @@ pub mod maximum_total_damage_with_spell_casting;
 pub mod min_stack;
 pub mod minimum_amount_of_time_to_fill_cups;
 pub mod minimum_deletions_for_at_most_k_distinct_characters;
+pub mod minimum_number_of_operations_to_convert_time;
 pub mod most_popular_video_creator;
 pub mod non_decreasing_subsequences;
 pub mod number_of_pairs_of_interchangeable_rectangles;
