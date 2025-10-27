@@ -36,6 +36,7 @@ pub mod maximum_number_of_words_you_can_type;
 pub mod minimum_number_of_people_to_teach;
 pub mod minimum_score_triangulation_of_polygon;
 pub mod next_greater_numerically_balanced_number;
+pub mod number_of_laser_beams_in_a_bank;
 pub mod number_of_people_aware_of_a_secret;
 pub mod number_of_zero_filled_subarrays;
 pub mod pacific_atlantic_water_flow;
