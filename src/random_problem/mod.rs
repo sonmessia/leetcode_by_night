@@ -7,6 +7,7 @@ pub mod count_nice_pairs_in_an_array;
 pub mod count_the_number_of_incremovable_subarrays_i;
 pub mod daily_temperatures;
 pub mod design_an_atm_machine;
+pub mod determine_the_winner_of_a_bowling_game;
 pub mod distribute_money_to_maximum_children;
 pub mod excel_sheet_column_number;
 pub mod excel_sheet_column_title;
