@@ -27,6 +27,7 @@ pub mod fraction_to_recurring_decimal;
 pub mod implement_router;
 pub mod largest_triangle_area;
 pub mod lexicographically_smallest_string_after_applying_operations;
+pub mod make_array_elements_equal_to_zero;
 pub mod maximum_area_of_longest_diagonal_rectangle;
 pub mod maximum_average_pass_ratio;
 pub mod maximum_frequency_of_an_element_after_performing_operations_i;
