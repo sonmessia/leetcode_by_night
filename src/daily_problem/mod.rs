@@ -34,6 +34,7 @@ pub mod maximum_frequency_of_an_element_after_performing_operations_i;
 pub mod maximum_frequency_of_an_element_after_performing_operations_ii;
 pub mod maximum_number_of_distinct_elements_after_operations;
 pub mod maximum_number_of_words_you_can_type;
+pub mod minimum_number_of_increments_on_subarrays_to_form_a_target_array;
 pub mod minimum_number_of_people_to_teach;
 pub mod minimum_score_triangulation_of_polygon;
 pub mod next_greater_numerically_balanced_number;
