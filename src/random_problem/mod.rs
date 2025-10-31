@@ -46,6 +46,7 @@ pub mod parallels_courses_ii;
 pub mod path_with_minimum_effort;
 pub mod predict_the_winner;
 pub mod prison_cells_after_n_days;
+pub mod range_sum_query_mutable;
 pub mod rank_teams_by_votes;
 pub mod rectangle_area;
 pub mod remove_all_adjacent_duplicates_in_string_ii;
