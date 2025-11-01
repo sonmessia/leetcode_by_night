@@ -10,6 +10,7 @@ pub mod convert_integer_to_the_sum_of_two_no_zero_integers;
 pub mod count_elements_with_maximum_frequency;
 pub mod count_square_submatrices_with_all_ones;
 pub mod count_submatrices_with_all_ones;
+pub mod delete_nodes_from_linked_list_present_in_array;
 pub mod design_a_food_rating_system;
 pub mod design_movie_rental_system;
 pub mod design_spreadsheet;
