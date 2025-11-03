@@ -39,6 +39,7 @@ pub mod maximum_number_of_words_you_can_type;
 pub mod minimum_number_of_increments_on_subarrays_to_form_a_target_array;
 pub mod minimum_number_of_people_to_teach;
 pub mod minimum_score_triangulation_of_polygon;
+pub mod minimum_time_to_make_rope_colorful;
 pub mod next_greater_numerically_balanced_number;
 pub mod number_of_laser_beams_in_a_bank;
 pub mod number_of_people_aware_of_a_secret;
