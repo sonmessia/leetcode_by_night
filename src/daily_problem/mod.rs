@@ -47,6 +47,7 @@ pub mod number_of_laser_beams_in_a_bank;
 pub mod number_of_people_aware_of_a_secret;
 pub mod number_of_zero_filled_subarrays;
 pub mod pacific_atlantic_water_flow;
+pub mod power_grid_maintenance;
 pub mod replace_non_coprime_numbers_in_array;
 pub mod simple_bank_system;
 pub mod smallest_number_with_all_set_bits;
