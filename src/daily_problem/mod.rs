@@ -8,6 +8,7 @@ pub mod compare_version_numbers;
 pub mod container_with_most_water;
 pub mod convert_integer_to_the_sum_of_two_no_zero_integers;
 pub mod count_elements_with_maximum_frequency;
+pub mod count_operations_to_obtain_zero;
 pub mod count_square_submatrices_with_all_ones;
 pub mod count_submatrices_with_all_ones;
 pub mod count_unguarded_cells_in_the_grid;
