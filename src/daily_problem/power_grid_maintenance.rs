@@ -112,6 +112,39 @@ impl Solution {
 
         let mut ans = vec![];
 
+        for q in queries {
+            let op = q[0];
+            let x = q[1];
+
+            if op == 1 {
+                let vertex = graph.get_vertex_value(x);
+                if !vertex.offline {
+                    ans.push(x);
+                } else {
+                    let power_grid_id = vertex.power_grid_id as usize;
+                    let mut temp_head = power_grid[power_grid_id].clone();
+
+                    while let Some(&Reverse(top)) = temp_head.peek() {
+                        let top_vertex = graph.get_vertex_value(top);
+                        if top_vertex.offline {
+                            temp_head.pop();
+                        } else {
+                            break;
+                        }
+                    }
+
+                    if let Some(&Reverse(top)) = temp_head.peek() {
+                        ans.push(top);
+                    } else {
+                        ans.push(-1);
+                    }
+
+                    power_grid[power_grid_id] = temp_head;
+                }
+            } else if op == 2 {
+                graph.get_vertex_value_mut(x).offline = true;
+            }
+        }
         ans
     }
 }
