@@ -41,6 +41,8 @@ pub mod maximum_number_of_distinct_elements_after_operations;
 pub mod maximum_number_of_words_you_can_type;
 pub mod minimum_number_of_increments_on_subarrays_to_form_a_target_array;
 pub mod minimum_number_of_people_to_teach;
+pub mod minimum_operations_to_convert_all_elements_to_zero;
+pub mod minimum_operations_to_make_the_integer_zero;
 pub mod minimum_score_triangulation_of_polygon;
 pub mod minimum_time_to_make_rope_colorful;
 pub mod next_greater_numerically_balanced_number;
