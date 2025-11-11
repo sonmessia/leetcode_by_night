@@ -49,6 +49,7 @@ pub mod next_greater_numerically_balanced_number;
 pub mod number_of_laser_beams_in_a_bank;
 pub mod number_of_people_aware_of_a_secret;
 pub mod number_of_zero_filled_subarrays;
+pub mod ones_and_zeroes;
 pub mod pacific_atlantic_water_flow;
 pub mod power_grid_maintenance;
 pub mod replace_non_coprime_numbers_in_array;
