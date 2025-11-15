@@ -11,6 +11,7 @@ pub mod count_elements_with_maximum_frequency;
 pub mod count_operations_to_obtain_zero;
 pub mod count_square_submatrices_with_all_ones;
 pub mod count_submatrices_with_all_ones;
+pub mod count_the_number_of_substrings_with_dominant_ones;
 pub mod count_unguarded_cells_in_the_grid;
 pub mod delete_nodes_from_linked_list_present_in_array;
 pub mod design_a_food_rating_system;

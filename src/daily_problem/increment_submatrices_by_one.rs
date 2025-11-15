@@ -31,6 +31,7 @@ impl Solution {
                 if i > 0 && j > 0 {
                     val -= matrix[i - 1][j - 1];
                 }
+                println!("matrix[{}][{}] = {}", i, j, val);
                 matrix[i][j] = val;
             }
         }
