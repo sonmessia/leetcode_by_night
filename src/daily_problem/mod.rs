@@ -52,6 +52,7 @@ pub mod minimum_time_to_make_rope_colorful;
 pub mod next_greater_numerically_balanced_number;
 pub mod number_of_laser_beams_in_a_bank;
 pub mod number_of_people_aware_of_a_secret;
+pub mod number_of_substrings_with_only_1s;
 pub mod number_of_zero_filled_subarrays;
 pub mod ones_and_zeroes;
 pub mod pacific_atlantic_water_flow;
