@@ -6,10 +6,10 @@ impl Solution {
 
         for (i, &num) in nums.iter().enumerate() {
             if num == 1 {
-                if let Some(last_index) = last_one_index {
-                    if i - last_index - 1 < k as usize {
-                        return false;
-                    }
+                if let Some(last_index) = last_one_index
+                    && (i - last_index - 1) < k as usize
+                {
+                    return false;
                 }
                 last_one_index = Some(i);
             }
