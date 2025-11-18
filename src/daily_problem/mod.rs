@@ -55,6 +55,7 @@ pub mod number_of_laser_beams_in_a_bank;
 pub mod number_of_people_aware_of_a_secret;
 pub mod number_of_substrings_with_only_1s;
 pub mod number_of_zero_filled_subarrays;
+pub mod one_bit_and_2_bit_characters;
 pub mod ones_and_zeroes;
 pub mod pacific_atlantic_water_flow;
 pub mod power_grid_maintenance;
