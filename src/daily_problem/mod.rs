@@ -33,6 +33,7 @@ pub mod find_x_sum_of_all_k_long_subarrays_ii;
 pub mod fraction_to_recurring_decimal;
 pub mod implement_router;
 pub mod increment_submatrices_by_one;
+pub mod keep_multiplying_found_values_by_two;
 pub mod largest_triangle_area;
 pub mod lexicographically_smallest_string_after_applying_operations;
 pub mod make_array_elements_equal_to_zero;
