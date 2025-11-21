@@ -72,6 +72,7 @@ pub mod swim_in_rising_water;
 pub mod the_two_sneaky_numbers_of_digitville;
 pub mod triangle;
 pub mod twenty_four_game;
+pub mod unique_length_3_palindromic_subsequences;
 pub mod valid_sudoku;
 pub mod valid_triangle_number;
 pub mod vowel_spellchecker;
