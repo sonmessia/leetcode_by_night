@@ -1,5 +1,4 @@
 use std::collections::HashSet;
-
 struct Solution;
 
 impl Solution {
