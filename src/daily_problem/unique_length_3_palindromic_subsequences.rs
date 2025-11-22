@@ -4,7 +4,6 @@ struct Solution;
 impl Solution {
     pub fn count_palindromic_subsequence(s: String) -> i32 {
         let chars: Vec<char> = s.chars().collect();
-        let n = chars.len();
         let mut result = 0;
 
         for c in 'a'..='z' {
@@ -15,8 +14,8 @@ impl Solution {
                 && (l < r)
             {
                 let mut mids = HashSet::new();
-                for mid in (l + 1)..r {
-                    mids.insert(chars[mid]);
+                for c in chars.iter().take(r).skip(l + 1) {
+                    mids.insert(c);
                 }
                 result += mids.len();
             }
