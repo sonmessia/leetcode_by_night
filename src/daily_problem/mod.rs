@@ -32,6 +32,7 @@ pub mod find_triangular_sum_of_an_array;
 pub mod find_x_sum_of_all_k_long_subarrays_i;
 pub mod find_x_sum_of_all_k_long_subarrays_ii;
 pub mod fraction_to_recurring_decimal;
+pub mod greatest_sum_divisible_by_three;
 pub mod implement_router;
 pub mod increment_submatrices_by_one;
 pub mod keep_multiplying_found_values_by_two;
