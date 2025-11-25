@@ -66,6 +66,7 @@ pub mod power_grid_maintenance;
 pub mod replace_non_coprime_numbers_in_array;
 pub mod set_intersection_size_at_least_two;
 pub mod simple_bank_system;
+pub mod smallest_integer_divisible_by_k;
 pub mod smallest_number_with_all_set_bits;
 pub mod sort_matrix_by_diagonals;
 pub mod sort_vowels_in_a_string;
