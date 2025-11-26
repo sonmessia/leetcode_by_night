@@ -58,6 +58,7 @@ pub mod search_in_rotated_sorted_array;
 pub mod search_in_rotated_sorted_array_ii;
 pub mod set_matrix_zeroes;
 pub mod shift_2d_grid;
+pub mod shortest_path_in_binary_matrix;
 pub mod sliding_window_maximum;
 pub mod taking_maximum_energy_from_the_mystic_dungeon;
 pub mod transpose_matrix;
