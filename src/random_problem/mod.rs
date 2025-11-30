@@ -15,6 +15,7 @@ pub mod excel_sheet_column_number;
 pub mod excel_sheet_column_title;
 pub mod find_polygon_with_the_largest_perimeter;
 pub mod find_subtree_sizes_after_change;
+pub mod find_the_divisibility_array_of_a_string;
 pub mod find_the_maximum_divisibility_score;
 pub mod find_the_safest_path_in_a_grid;
 pub mod find_the_width_of_columns_of_a_grid;
