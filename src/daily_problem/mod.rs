@@ -14,6 +14,7 @@ pub mod count_elements_with_maximum_frequency;
 pub mod count_number_of_trapezoids_i;
 pub mod count_number_of_trapezoids_ii;
 pub mod count_operations_to_obtain_zero;
+pub mod count_partitions_with_even_sum_difference;
 pub mod count_square_submatrices_with_all_ones;
 pub mod count_submatrices_with_all_ones;
 pub mod count_the_number_of_substrings_with_dominant_ones;
