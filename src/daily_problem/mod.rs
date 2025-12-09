@@ -17,6 +17,7 @@ pub mod count_odd_numbers_in_an_interval_range;
 pub mod count_operations_to_obtain_zero;
 pub mod count_partitions_with_even_sum_difference;
 pub mod count_partitions_with_max_min_difference_at_most_k;
+pub mod count_special_triplets;
 pub mod count_square_submatrices_with_all_ones;
 pub mod count_square_sum_triples;
 pub mod count_submatrices_with_all_ones;
