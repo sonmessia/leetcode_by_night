@@ -63,6 +63,7 @@ pub mod set_matrix_zeroes;
 pub mod shift_2d_grid;
 pub mod shortest_path_in_binary_matrix;
 pub mod sliding_window_maximum;
+pub mod subarray_product_less_than_k;
 pub mod taking_maximum_energy_from_the_mystic_dungeon;
 pub mod transpose_matrix;
 pub mod trapping_rain_water;
