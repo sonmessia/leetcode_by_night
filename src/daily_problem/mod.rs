@@ -29,6 +29,7 @@ pub mod count_the_number_of_computer_unlocking_permutations;
 pub mod count_the_number_of_substrings_with_dominant_ones;
 pub mod count_unguarded_cells_in_the_grid;
 pub mod coupon_code_validator;
+pub mod delete_column_to_make_sorted;
 pub mod delete_nodes_from_linked_list_present_in_array;
 pub mod design_a_food_rating_system;
 pub mod design_movie_rental_system;
