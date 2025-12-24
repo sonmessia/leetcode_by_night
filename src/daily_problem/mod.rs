@@ -1,6 +1,7 @@
 pub mod adjacent_increasing_subarrays_detection_i;
 pub mod adjacent_increasing_subarrays_detection_ii;
 pub mod alice_and_bob_playing_flower_game;
+pub mod apple_redistribution_into_boxes;
 pub mod avoid_flood_in_the_city;
 pub mod best_time_to_buy_and_sell_stock_using_strategy;
 pub mod best_time_to_buy_and_sell_stock_v;
