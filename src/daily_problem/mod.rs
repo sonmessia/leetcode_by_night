@@ -69,6 +69,7 @@ pub mod maximum_number_of_words_you_can_type;
 pub mod maximum_profit_from_trading_stocks_with_discounts;
 pub mod maximum_running_time_of_n_computers;
 pub mod maximum_subarray_sum_with_length_divisible_by_k;
+pub mod meeting_room_iii;
 pub mod minimum_number_of_increments_on_subarrays_to_form_a_target_array;
 pub mod minimum_number_of_operations_to_make_all_array_elements_equal_to_1;
 pub mod minimum_number_of_people_to_teach;
