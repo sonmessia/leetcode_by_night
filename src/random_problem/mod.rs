@@ -14,6 +14,7 @@ pub mod determine_the_winner_of_a_bowling_game;
 pub mod distribute_money_to_maximum_children;
 pub mod excel_sheet_column_number;
 pub mod excel_sheet_column_title;
+pub mod find_largest_group_size_of_m;
 pub mod find_polygon_with_the_largest_perimeter;
 pub mod find_subtree_sizes_after_change;
 pub mod find_the_divisibility_array_of_a_string;
