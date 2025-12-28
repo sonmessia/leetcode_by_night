@@ -56,16 +56,7 @@ impl Solution {
         }
 
         // Tìm phòng có số lượt dùng nhiều nhất (và index nhỏ nhất nếu bằng nhau)
-        let mut max_usage = -1;
-        let mut result_id = 0;
-
-        for (i, &c) in count.iter().enumerate() {
-            if c > max_usage {
-                max_usage = c;
-                result_id = i;
-            }
-        }
-
-        result_id as i32
+        let max = *count.iter().max().unwrap();
+        count.iter().position(|&c| c == max).unwrap() as i32
     }
 }

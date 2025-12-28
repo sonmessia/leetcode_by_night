@@ -16,6 +16,7 @@ pub mod count_collisions_on_a_road;
 pub mod count_covered_buildings;
 pub mod count_elements_with_maximum_frequency;
 pub mod count_mentions_per_user;
+pub mod count_negative_numbers_in_a_sorted_matrix;
 pub mod count_number_of_trapezoids_i;
 pub mod count_number_of_trapezoids_ii;
 pub mod count_odd_numbers_in_an_interval_range;
