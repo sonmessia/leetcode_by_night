@@ -5,6 +5,7 @@ pub mod check_array_formation_through_concatenation;
 pub mod check_if_binary_string_has_at_most_one_segment_of_ones;
 pub mod closest_dessert_cost;
 pub mod construct_target_array_with_multiple_sums;
+pub mod contains_duplicate_iii;
 pub mod count_nice_pairs_in_an_array;
 pub mod count_the_number_of_incremovable_subarrays_i;
 pub mod create_components_with_same_value;
