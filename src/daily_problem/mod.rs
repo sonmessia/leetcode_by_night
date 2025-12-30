@@ -58,6 +58,7 @@ pub mod increment_submatrices_by_one;
 pub mod keep_multiplying_found_values_by_two;
 pub mod largest_triangle_area;
 pub mod lexicographically_smallest_string_after_applying_operations;
+pub mod magic_squares_in_grid;
 pub mod make_array_elements_equal_to_zero;
 pub mod make_sum_divisible_by_p;
 pub mod maximum_area_of_longest_diagonal_rectangle;
