@@ -91,6 +91,7 @@ pub mod one_bit_and_2_bit_characters;
 pub mod ones_and_zeroes;
 pub mod pacific_atlantic_water_flow;
 pub mod paths_in_matrix_whose_sum_is_divisible_by_k;
+pub mod plus_one;
 pub mod power_grid_maintenance;
 pub mod pyramid_transition_matrix;
 pub mod replace_non_coprime_numbers_in_array;
