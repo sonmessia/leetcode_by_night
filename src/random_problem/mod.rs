@@ -47,6 +47,7 @@ pub mod minimum_deletions_for_at_most_k_distinct_characters;
 pub mod minimum_moves_to_balance_circular_array;
 pub mod minimum_moves_to_equal_array_elements;
 pub mod minimum_number_of_operations_to_convert_time;
+pub mod minimum_time_to_complete_trips;
 pub mod most_popular_video_creator;
 pub mod non_decreasing_subsequences;
 pub mod number_of_pairs_of_interchangeable_rectangles;

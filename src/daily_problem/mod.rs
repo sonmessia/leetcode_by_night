@@ -87,6 +87,7 @@ pub mod number_of_people_aware_of_a_secret;
 pub mod number_of_smooth_descent_period_of_a_stock;
 pub mod number_of_substrings_with_only_1s;
 pub mod number_of_ways_to_divide_a_long_corridor;
+pub mod number_of_ways_to_paint_n_3_grid;
 pub mod number_of_zero_filled_subarrays;
 pub mod one_bit_and_2_bit_characters;
 pub mod ones_and_zeroes;
