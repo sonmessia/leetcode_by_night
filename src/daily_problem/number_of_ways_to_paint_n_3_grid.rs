@@ -5,7 +5,7 @@ impl Solution {
         const MOD: i64 = 1_000_000_007;
         let (mut a, mut b) = (6i64, 6i64);
 
-        for i in 2..=n {
+        for _ in 2..=n {
             let na = (3 * a + 2 * b) % MOD;
             let nb = (2 * a + 2 * b) % MOD;
             a = na;
