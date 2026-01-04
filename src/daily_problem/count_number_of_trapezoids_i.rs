@@ -15,6 +15,7 @@ impl Solution {
             ans = (ans + sum * n_edges) % MOD;
             sum = (sum + n_edges) % MOD;
         }
+
         ans as i32
     }
 }

@@ -38,6 +38,6 @@ impl Solution {
             val += s;
         }
 
-        ans
+        ans as i32
     }
 }
