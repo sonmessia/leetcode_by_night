@@ -72,6 +72,7 @@ pub mod maximum_matrix_sum;
 pub mod maximum_number_of_distinct_elements_after_operations;
 pub mod maximum_number_of_operations_to_move_ones_to_the_end;
 pub mod maximum_number_of_words_you_can_type;
+pub mod maximum_product_of_splitted_binary_tree;
 pub mod maximum_profit_from_trading_stocks_with_discounts;
 pub mod maximum_running_time_of_n_computers;
 pub mod maximum_subarray_sum_with_length_divisible_by_k;
