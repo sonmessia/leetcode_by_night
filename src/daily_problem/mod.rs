@@ -63,6 +63,7 @@ pub mod lexicographically_smallest_string_after_applying_operations;
 pub mod magic_squares_in_grid;
 pub mod make_array_elements_equal_to_zero;
 pub mod make_sum_divisible_by_p;
+pub mod max_dot_product_of_two_subsequences;
 pub mod maximum_area_of_longest_diagonal_rectangle;
 pub mod maximum_average_pass_ratio;
 pub mod maximum_frequency_of_an_element_after_performing_operations_i;
