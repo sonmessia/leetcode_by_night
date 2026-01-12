@@ -87,6 +87,7 @@ pub mod minimum_operations_to_convert_all_elements_to_zero;
 pub mod minimum_operations_to_make_the_integer_zero;
 pub mod minimum_score_triangulation_of_polygon;
 pub mod minimum_time_to_make_rope_colorful;
+pub mod minimum_time_visiting_all_points;
 pub mod n_repeated_element_in_size_2n_array;
 pub mod next_greater_numerically_balanced_number;
 pub mod number_of_laser_beams_in_a_bank;
