@@ -105,6 +105,7 @@ pub mod plus_one;
 pub mod power_grid_maintenance;
 pub mod pyramid_transition_matrix;
 pub mod replace_non_coprime_numbers_in_array;
+pub mod separate_squares_i;
 pub mod set_intersection_size_at_least_two;
 pub mod simple_bank_system;
 pub mod smallest_integer_divisible_by_k;
