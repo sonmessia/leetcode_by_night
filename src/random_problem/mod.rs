@@ -40,6 +40,7 @@ pub mod longest_repeating_character_replacement;
 pub mod maximize_the_confusion_of_an_exam;
 pub mod maximum_length_of_pair_chain;
 pub mod maximum_prime_difference;
+pub mod maximum_product_subarray;
 pub mod maximum_subarray;
 pub mod maximum_total_damage_with_spell_casting;
 pub mod min_stack;
