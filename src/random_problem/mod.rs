@@ -37,6 +37,7 @@ pub mod least_number_of_unique_integers_after_k_removals;
 pub mod lexicographically_smallest_negated_permutation_that_sums_to_target;
 pub mod longest_non_decreasing_subarray_from_two_arrays;
 pub mod longest_palindromic_subsequence;
+pub mod longest_palindromic_subsequence_after_at_most_k_operations;
 pub mod longest_repeating_character_replacement;
 pub mod maximize_the_confusion_of_an_exam;
 pub mod maximum_length_of_pair_chain;
