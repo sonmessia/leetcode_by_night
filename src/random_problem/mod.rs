@@ -34,6 +34,7 @@ pub mod largest_magic_square;
 pub mod largest_number_at_least_twice_of_others;
 pub mod largest_perimeter_triangle;
 pub mod least_number_of_unique_integers_after_k_removals;
+pub mod lexicographically_smallest_negated_permutation_that_sums_to_target;
 pub mod longest_non_decreasing_subarray_from_two_arrays;
 pub mod longest_palindromic_subsequence;
 pub mod longest_repeating_character_replacement;
