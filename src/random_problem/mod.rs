@@ -50,6 +50,7 @@ pub mod minimum_amount_of_time_to_fill_cups;
 pub mod minimum_deletions_for_at_most_k_distinct_characters;
 pub mod minimum_moves_to_balance_circular_array;
 pub mod minimum_moves_to_equal_array_elements;
+pub mod minimum_moves_to_spread_stones_over_grid;
 pub mod minimum_number_of_operations_to_convert_time;
 pub mod minimum_time_to_complete_trips;
 pub mod most_popular_video_creator;
