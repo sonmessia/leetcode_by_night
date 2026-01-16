@@ -23,7 +23,7 @@ impl Solution {
                 if grid[i][j] == 0 {
                     for ni in 0..3 {
                         for nj in 0..3 {
-                            let d = (ni - i).abs() + (nj - j).abs();
+                            let d = ((ni - i) as i32).abs() + ((nj - j) as i32).abs();
                             if grid[ni][nj] > 1 {
                                 grid[ni][nj] -= 1;
                                 grid[i][j] += 1;

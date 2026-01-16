@@ -36,8 +36,8 @@ impl Solution {
                 let right_sum = dfs(&node_borrow.right, total_sum, ans, compute_ans);
                 let subtree_sum = left_sum + right_sum + node_borrow.val as i64;
                 if compute_ans {
-                    let product = subtree_sum * (*total_sum - subtree_sum);
-                    *ans = *ans.max(product);
+                    let product = subtree_sum * (total_sum - subtree_sum);
+                    *ans = std::cmp::max(*ans, product);
                 }
                 subtree_sum
             } else {
