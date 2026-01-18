@@ -14,6 +14,7 @@ pub mod design_an_atm_machine;
 pub mod determine_the_winner_of_a_bowling_game;
 pub mod distribute_money_to_maximum_children;
 pub mod earliest_finish_time_for_land_and_water_rides_i;
+pub mod earliest_finish_time_for_land_and_water_rides_ii;
 pub mod edit_distance;
 pub mod excel_sheet_column_number;
 pub mod excel_sheet_column_title;
