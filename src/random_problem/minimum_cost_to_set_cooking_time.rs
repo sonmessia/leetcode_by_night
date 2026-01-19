@@ -2,10 +2,6 @@ struct Solution;
 
 impl Solution {
     fn cost(minute: i32, second: i32, start_at: i32, move_cost: i32, push_cost: i32) -> i32 {
-        if (minute > 99 || second > 99 || minute < 0 || second < 0) {
-            return i32::MAX;
-        }
-
         let s: String = (minute * 100 + second).to_string();
 
         let mut curr = (start_at as u8 + b'0') as char;
