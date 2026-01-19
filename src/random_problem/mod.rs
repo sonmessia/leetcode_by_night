@@ -14,6 +14,7 @@ pub mod daily_temperatures;
 pub mod design_an_atm_machine;
 pub mod determine_the_winner_of_a_bowling_game;
 pub mod distribute_money_to_maximum_children;
+pub mod double_modular_exponentiation;
 pub mod earliest_finish_time_for_land_and_water_rides_i;
 pub mod earliest_finish_time_for_land_and_water_rides_ii;
 pub mod edit_distance;

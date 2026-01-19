@@ -2,7 +2,7 @@ struct Solution;
 
 impl Solution {
     pub fn find_prime_pairs(n: i32) -> Vec<Vec<i32>> {
-        let mut is_prime = vec![true; (n as usize + 5)];
+        let mut is_prime = vec![true; n as usize + 5];
 
         fn sieve(is_prime: &mut Vec<bool>) {
             is_prime[0] = false;

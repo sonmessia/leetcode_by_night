@@ -6,7 +6,7 @@ impl Solution {
             return 0;
         }
 
-        let mut is_prime = vec![true; (n as usize)];
+        let mut is_prime = vec![true; n as usize];
         is_prime[0] = false;
         is_prime[1] = false;
 
