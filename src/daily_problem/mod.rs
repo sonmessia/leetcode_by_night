@@ -11,6 +11,7 @@ pub mod check_if_all_1s_are_at_least_length_k_places_away;
 pub mod check_if_digits_are_equal_in_string_after_operations_i;
 pub mod compare_version_numbers;
 pub mod construct_the_minimum_bitwise_array_i;
+pub mod construct_the_minimum_bitwise_array_ii;
 pub mod container_with_most_water;
 pub mod convert_integer_to_the_sum_of_two_no_zero_integers;
 pub mod count_collisions_on_a_road;
