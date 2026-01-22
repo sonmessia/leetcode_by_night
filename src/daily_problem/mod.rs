@@ -92,6 +92,7 @@ pub mod minimum_number_of_operations_to_make_all_array_elements_equal_to_1;
 pub mod minimum_number_of_people_to_teach;
 pub mod minimum_operations_to_convert_all_elements_to_zero;
 pub mod minimum_operations_to_make_the_integer_zero;
+pub mod minimum_pair_removal_to_sort_array_i;
 pub mod minimum_score_triangulation_of_polygon;
 pub mod minimum_time_to_make_rope_colorful;
 pub mod minimum_time_visiting_all_points;
