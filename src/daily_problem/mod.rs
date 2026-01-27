@@ -90,6 +90,7 @@ pub mod minimize_maximum_pair_sum_in_array;
 pub mod minimum_absolute_difference;
 pub mod minimum_ascii_delete_sum_for_two_strings;
 pub mod minimum_cost_of_buying_candies_with_discount;
+pub mod minimum_cost_path_with_edge_reversals;
 pub mod minimum_difference_between_highest_and_lowest_of_k_scores;
 pub mod minimum_number_of_increments_on_subarrays_to_form_a_target_array;
 pub mod minimum_number_of_operations_to_make_all_array_elements_equal_to_1;
