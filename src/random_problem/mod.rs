@@ -1,4 +1,5 @@
 pub mod all_divisions_with_the_highest_score_of_a_binary_array;
+pub mod can_convert_string_in_k_moves;
 pub mod can_i_win;
 pub mod car_fleet;
 pub mod check_array_formation_through_concatenation;
