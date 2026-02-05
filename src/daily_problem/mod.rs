@@ -135,6 +135,7 @@ pub mod successful_pairs_of_spells_and_potions;
 pub mod sudoku_solver;
 pub mod swim_in_rising_water;
 pub mod the_two_sneaky_numbers_of_digitville;
+pub mod transformed_array;
 pub mod triangle;
 pub mod trionic_array_i;
 pub mod trionic_array_ii;
