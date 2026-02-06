@@ -9,6 +9,7 @@ pub mod construct_target_array_with_multiple_sums;
 pub mod construct_the_minimum_bitwise_array_ii;
 pub mod contains_duplicate_iii;
 pub mod count_nice_pairs_in_an_array;
+pub mod count_number_of_texts;
 pub mod count_primes;
 pub mod count_the_number_of_incremovable_subarrays_i;
 pub mod create_components_with_same_value;
