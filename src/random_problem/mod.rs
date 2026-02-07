@@ -48,6 +48,7 @@ pub mod longest_palindromic_subsequence;
 pub mod longest_palindromic_subsequence_after_at_most_k_operations;
 pub mod longest_repeating_character_replacement;
 pub mod maximize_the_confusion_of_an_exam;
+pub mod maximum_amount_of_money_robot_can_earn;
 pub mod maximum_length_of_pair_chain;
 pub mod maximum_prime_difference;
 pub mod maximum_product_subarray;
