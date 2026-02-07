@@ -95,6 +95,7 @@ pub mod minimum_cost_of_buying_candies_with_discount;
 pub mod minimum_cost_path_with_edge_reversals;
 pub mod minimum_cost_path_with_teleportations;
 pub mod minimum_cost_to_convert_string_i;
+pub mod minimum_deletions_to_make_string_balanced;
 pub mod minimum_difference_between_highest_and_lowest_of_k_scores;
 pub mod minimum_number_of_increments_on_subarrays_to_form_a_target_array;
 pub mod minimum_number_of_operations_to_make_all_array_elements_equal_to_1;
