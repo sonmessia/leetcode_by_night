@@ -3,6 +3,7 @@ pub mod can_convert_string_in_k_moves;
 pub mod can_i_win;
 pub mod car_fleet;
 pub mod check_array_formation_through_concatenation;
+pub mod check_balanced_string;
 pub mod check_if_binary_string_has_at_most_one_segment_of_ones;
 pub mod closest_dessert_cost;
 pub mod construct_target_array_with_multiple_sums;
