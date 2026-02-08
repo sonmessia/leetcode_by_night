@@ -39,6 +39,7 @@ pub mod hash_divided_string;
 pub mod insert_delete_getrandom_o1_duplicates_allowed;
 pub mod intersection_of_multiple_arrays;
 pub mod k_diff_pairs_in_an_array;
+pub mod k_th_largest_perfect_subtree_size_in_binary_tree;
 pub mod largest_magic_square;
 pub mod largest_number_at_least_twice_of_others;
 pub mod largest_perimeter_triangle;
