@@ -73,6 +73,7 @@ pub mod non_decreasing_subsequences;
 pub mod number_of_pairs_of_interchangeable_rectangles;
 pub mod number_of_students_doing_homework_at_a_given_time;
 pub mod online_election;
+pub mod optimal_partition_of_string;
 pub mod painting_a_grid_with_three_different_colors;
 pub mod pancake_sorting;
 pub mod parallels_courses_ii;
