@@ -68,6 +68,7 @@ pub mod largest_magic_square;
 pub mod largest_triangle_area;
 pub mod last_day_where_you_can_still_cross;
 pub mod lexicographically_smallest_string_after_applying_operations;
+pub mod longest_balanced_subarray_i;
 pub mod magic_squares_in_grid;
 pub mod make_array_elements_equal_to_zero;
 pub mod make_sum_divisible_by_p;
