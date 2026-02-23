@@ -8,6 +8,7 @@ pub mod balanced_binary_tree;
 pub mod best_time_to_buy_and_sell_stock_using_strategy;
 pub mod best_time_to_buy_and_sell_stock_v;
 pub mod binary_prefix_divisible_by_5;
+pub mod binary_watch;
 pub mod calculate_money_in_leetcode_bank;
 pub mod champagne_tower;
 pub mod check_if_all_1s_are_at_least_length_k_places_away;
