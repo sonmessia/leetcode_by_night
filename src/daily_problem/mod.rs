@@ -144,6 +144,7 @@ pub mod sort_matrix_by_diagonals;
 pub mod sort_vowels_in_a_string;
 pub mod successful_pairs_of_spells_and_potions;
 pub mod sudoku_solver;
+pub mod sum_of_root_to_leaf_binary_numbers;
 pub mod swim_in_rising_water;
 pub mod the_two_sneaky_numbers_of_digitville;
 pub mod transformed_array;
