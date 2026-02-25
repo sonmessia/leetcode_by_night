@@ -22,7 +22,7 @@ use std::rc::Rc;
 struct Solution;
 
 impl Solution {
-    fn dfs(root: Option<Rc<RefCell<TreeNode>>>, k: i32, ans: &mut i32) {
+    fn dfs(root: &Option<Rc<RefCell<TreeNode>>>, k: i32, ans: &mut i32) {
         if let Some(node) = root {
             let node = node.borrow();
             let k = k * 2 + node.val;
@@ -30,14 +30,13 @@ impl Solution {
                 *ans += k;
                 return;
             }
-            Self::dfs(node.left.clone(), k, ans);
-            Self::dfs(node.right.clone(), k, ans);
+            Self::dfs(&node.left, k, ans);
+            Self::dfs(&node.right, k, ans);
         }
     }
     pub fn sum_root_to_leaf(root: Option<Rc<RefCell<TreeNode>>>) -> i32 {
         let mut ans = 0;
-        Self::dfs(root, 0, &mut ans);
+        Self::dfs(&root, 0, &mut ans);
         ans
     }
 }
-
