@@ -121,6 +121,7 @@ pub mod next_greater_numerically_balanced_number;
 pub mod number_of_laser_beams_in_a_bank;
 pub mod number_of_people_aware_of_a_secret;
 pub mod number_of_smooth_descent_period_of_a_stock;
+pub mod number_of_steps_to_reduce_a_number_in_binary_representation_to_one;
 pub mod number_of_substrings_with_only_1s;
 pub mod number_of_ways_to_divide_a_long_corridor;
 pub mod number_of_ways_to_paint_n_3_grid;
