@@ -57,6 +57,7 @@ pub mod longest_substring_with_at_least_k_repeating_characters;
 pub mod maximize_the_confusion_of_an_exam;
 pub mod maximum_amount_of_money_robot_can_earn;
 pub mod maximum_length_of_pair_chain;
+pub mod maximum_points_you_can_obtain_from_cards;
 pub mod maximum_prime_difference;
 pub mod maximum_product_subarray;
 pub mod maximum_strenght_of_a_group;
