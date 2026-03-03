@@ -50,6 +50,7 @@ pub mod design_task_manager;
 pub mod diagonal_traverse;
 pub mod divide_an_array_into_subarrays_with_minimum_cost_i;
 pub mod final_value_of_variable_after_performing_operations;
+pub mod find_kth_bit_in_nth_binary_string;
 pub mod find_minimum_operations_to_make_all_elements_divisible_by_three;
 pub mod find_most_frequent_vowel_and_consonant;
 pub mod find_n_unique_integers_sum_up_to_zero;
