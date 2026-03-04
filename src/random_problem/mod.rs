@@ -22,6 +22,7 @@ pub mod design_an_atm_machine;
 pub mod design_memory_allocator;
 pub mod destination_city;
 pub mod determine_the_winner_of_a_bowling_game;
+pub mod difference_between_ones_and_zeros_in_row_and_column;
 pub mod distribute_money_to_maximum_children;
 pub mod double_modular_exponentiation;
 pub mod earliest_finish_time_for_land_and_water_rides_i;
