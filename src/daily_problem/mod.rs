@@ -62,6 +62,7 @@ pub mod find_the_minimum_amount_of_time_to_brew_potions;
 pub mod find_the_number_of_ways_to_place_people;
 pub mod find_the_number_of_ways_to_place_people_ii;
 pub mod find_triangular_sum_of_an_array;
+pub mod find_unique_binary_string;
 pub mod find_x_sum_of_all_k_long_subarrays_i;
 pub mod find_x_sum_of_all_k_long_subarrays_ii;
 pub mod four_divisor;
