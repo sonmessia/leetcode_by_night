@@ -1,6 +1,7 @@
 pub mod all_divisions_with_the_highest_score_of_a_binary_array;
 pub mod binary_gap;
 pub mod binary_number_with_alternating_bits;
+pub mod binary_subarrays_with_sum;
 pub mod can_convert_string_in_k_moves;
 pub mod can_i_win;
 pub mod car_fleet;
