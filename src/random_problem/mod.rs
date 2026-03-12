@@ -20,6 +20,7 @@ pub mod count_primes;
 pub mod count_the_number_of_incremovable_subarrays_i;
 pub mod create_components_with_same_value;
 pub mod daily_temperatures;
+pub mod decode_xored_permutation;
 pub mod design_an_atm_machine;
 pub mod design_memory_allocator;
 pub mod destination_city;
