@@ -161,6 +161,7 @@ pub mod successful_pairs_of_spells_and_potions;
 pub mod sudoku_solver;
 pub mod sum_of_root_to_leaf_binary_numbers;
 pub mod swim_in_rising_water;
+pub mod the_k_th_lexicographical_string_of_all_happy_strings_of_length_n;
 pub mod the_two_sneaky_numbers_of_digitville;
 pub mod transformed_array;
 pub mod triangle;
