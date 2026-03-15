@@ -51,6 +51,7 @@ pub mod design_spreadsheet;
 pub mod design_task_manager;
 pub mod diagonal_traverse;
 pub mod divide_an_array_into_subarrays_with_minimum_cost_i;
+pub mod fancy_sequence;
 pub mod final_value_of_variable_after_performing_operations;
 pub mod find_all_possible_stable_binary_arrays_i;
 pub mod find_all_possible_stable_binary_arrays_ii;
