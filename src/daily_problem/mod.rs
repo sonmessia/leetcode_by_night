@@ -71,6 +71,7 @@ pub mod find_x_sum_of_all_k_long_subarrays_i;
 pub mod find_x_sum_of_all_k_long_subarrays_ii;
 pub mod four_divisor;
 pub mod fraction_to_recurring_decimal;
+pub mod get_biggest_three_rhombus_sums_in_a_grid;
 pub mod greatest_sum_divisible_by_three;
 pub mod implement_router;
 pub mod increment_submatrices_by_one;
