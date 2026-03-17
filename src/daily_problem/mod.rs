@@ -77,6 +77,7 @@ pub mod implement_router;
 pub mod increment_submatrices_by_one;
 pub mod keep_multiplying_found_values_by_two;
 pub mod largest_magic_square;
+pub mod largest_submatrix_with_rearrangements;
 pub mod largest_triangle_area;
 pub mod last_day_where_you_can_still_cross;
 pub mod lexicographically_smallest_string_after_applying_operations;
