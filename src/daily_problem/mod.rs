@@ -37,6 +37,7 @@ pub mod count_special_triplets;
 pub mod count_square_submatrices_with_all_ones;
 pub mod count_square_sum_triples;
 pub mod count_submatrices_with_all_ones;
+pub mod count_submatrices_with_top_left_element_and_sum_less_than_k;
 pub mod count_the_number_of_computer_unlocking_permutations;
 pub mod count_the_number_of_substrings_with_dominant_ones;
 pub mod count_unguarded_cells_in_the_grid;
