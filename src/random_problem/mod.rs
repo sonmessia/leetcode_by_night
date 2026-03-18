@@ -79,6 +79,7 @@ pub mod minimum_absolute_distance_between_mirror_pairs;
 pub mod minimum_amount_of_time_to_fill_cups;
 pub mod minimum_cost_to_set_cooking_time;
 pub mod minimum_deletions_for_at_most_k_distinct_characters;
+pub mod minimum_k_to_reduce_array_within_limit;
 pub mod minimum_moves_to_balance_circular_array;
 pub mod minimum_moves_to_equal_array_elements;
 pub mod minimum_moves_to_spread_stones_over_grid;

@@ -13,7 +13,7 @@ impl Solution {
             for j in 0..n {
                 cols[j] += grid[i][j];
                 curr_sum += cols[j];
-                ans += (curr_sum < k) as i32;
+                ans += (curr_sum <= k) as i32;
             }
         }
 
