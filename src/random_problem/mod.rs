@@ -97,6 +97,7 @@ pub mod painting_a_grid_with_three_different_colors;
 pub mod pancake_sorting;
 pub mod parallels_courses_ii;
 pub mod path_with_minimum_effort;
+pub mod plates_between_candles;
 pub mod predict_the_winner;
 pub mod prime_number_of_set_bits_in_binary_representation;
 pub mod prime_pair_with_target_sum;
