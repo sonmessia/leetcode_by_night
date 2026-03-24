@@ -18,6 +18,7 @@ pub mod check_if_digits_are_equal_in_string_after_operations_i;
 pub mod compare_version_numbers;
 pub mod complement_of_base_10_integer;
 pub mod concatenation_of_consecutive_binary_numbers;
+pub mod construct_product_matrix;
 pub mod construct_the_minimum_bitwise_array_i;
 pub mod construct_the_minimum_bitwise_array_ii;
 pub mod container_with_most_water;
