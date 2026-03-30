@@ -44,6 +44,7 @@ pub mod find_the_maximum_divisibility_score;
 pub mod find_the_safest_path_in_a_grid;
 pub mod find_the_width_of_columns_of_a_grid;
 pub mod find_the_winning_player_in_coin_game;
+pub mod find_three_consecutive_integers_that_sum_to_a_given_number;
 pub mod find_winner_on_a_tic_tac_toe_game;
 pub mod find_xor_beauty_of_array;
 pub mod frequency_of_the_most_frequent_element;
