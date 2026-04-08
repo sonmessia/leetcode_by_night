@@ -121,3 +121,4 @@ pub mod subarray_product_less_than_k;
 pub mod taking_maximum_energy_from_the_mystic_dungeon;
 pub mod transpose_matrix;
 pub mod trapping_rain_water;
+pub mod xor_after_range_multiplication_queries_ii;
