@@ -186,5 +186,6 @@ pub mod valid_sudoku;
 pub mod valid_triangle_number;
 pub mod vowel_spellchecker;
 pub mod vowels_game_in_a_string;
+pub mod walking_robot_simulation_ii;
 pub mod water_bottles;
 pub mod water_bottles_ii;
