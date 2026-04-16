@@ -17,6 +17,7 @@ pub mod check_if_binary_string_has_at_most_one_segment_of_ones;
 pub mod check_if_digits_are_equal_in_string_after_operations_i;
 pub mod check_if_strings_can_be_made_equal_with_operations_i;
 pub mod check_if_strings_can_be_made_equal_with_operations_ii;
+pub mod closest_equal_element_queries;
 pub mod compare_version_numbers;
 pub mod complement_of_base_10_integer;
 pub mod concatenation_of_consecutive_binary_numbers;
