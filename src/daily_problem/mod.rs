@@ -142,6 +142,7 @@ pub mod minimum_swaps_to_arrange_a_binary_grid;
 pub mod minimum_time_to_make_rope_colorful;
 pub mod minimum_time_visiting_all_points;
 pub mod minimum_total_distance_traveled;
+pub mod mirror_distance_of_an_integer;
 pub mod n_repeated_element_in_size_2n_array;
 pub mod next_greater_numerically_balanced_number;
 pub mod number_of_laser_beams_in_a_bank;
