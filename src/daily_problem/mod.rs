@@ -100,6 +100,7 @@ pub mod maximal_rectangle;
 pub mod maximize_area_of_square_hole_in_grid;
 pub mod maximum_area_of_longest_diagonal_rectangle;
 pub mod maximum_average_pass_ratio;
+pub mod maximum_distance_between_a_pair_of_values;
 pub mod maximum_frequency_of_an_element_after_performing_operations_i;
 pub mod maximum_frequency_of_an_element_after_performing_operations_ii;
 pub mod maximum_level_sum_of_a_binary_tree;
