@@ -116,6 +116,7 @@ pub mod maximum_side_length_of_a_square_with_sum_less_than_or_equal_to_threshold
 pub mod maximum_square_area_by_removing_fences_from_a_field;
 pub mod maximum_subarray_sum_with_length_divisible_by_k;
 pub mod meeting_room_iii;
+pub mod minimize_hamming_distance_after_swap_operations;
 pub mod minimize_maximum_pair_sum_in_array;
 pub mod minimum_absolute_difference;
 pub mod minimum_absolute_difference_in_sliding_submatrix;
