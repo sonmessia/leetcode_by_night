@@ -197,4 +197,5 @@ pub mod vowels_game_in_a_string;
 pub mod walking_robot_simulation_ii;
 pub mod water_bottles;
 pub mod water_bottles_ii;
+pub mod words_within_two_edits_of_dictionary;
 pub mod xor_after_range_multiplication_queries_i;
