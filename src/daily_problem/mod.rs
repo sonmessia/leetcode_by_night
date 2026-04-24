@@ -178,6 +178,7 @@ pub mod sort_vowels_in_a_string;
 pub mod special_positions_in_a_binary_matrix;
 pub mod successful_pairs_of_spells_and_potions;
 pub mod sudoku_solver;
+pub mod sum_of_distances;
 pub mod sum_of_root_to_leaf_binary_numbers;
 pub mod swim_in_rising_water;
 pub mod the_k_th_lexicographical_string_of_all_happy_strings_of_length_n;
