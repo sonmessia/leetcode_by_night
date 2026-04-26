@@ -2,7 +2,7 @@ struct Solution;
 
 impl Solution {
     pub fn max_operations(s: String) -> i32 {
-        let mut chars: Vec<char> = s.chars().collect();
+        let chars: Vec<char> = s.chars().collect();
         let mut ans = 0;
 
         let mut count_ones = 0;

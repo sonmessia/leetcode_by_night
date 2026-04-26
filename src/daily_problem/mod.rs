@@ -55,6 +55,7 @@ pub mod design_a_food_rating_system;
 pub mod design_movie_rental_system;
 pub mod design_spreadsheet;
 pub mod design_task_manager;
+pub mod detect_cycles_in_2d_grid;
 pub mod diagonal_traverse;
 pub mod divide_an_array_into_subarrays_with_minimum_cost_i;
 pub mod equal_sum_grid_partition_i;
