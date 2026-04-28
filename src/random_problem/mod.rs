@@ -87,6 +87,7 @@ pub mod minimum_deletions_for_at_most_k_distinct_characters;
 pub mod minimum_k_to_reduce_array_within_limit;
 pub mod minimum_moves_to_balance_circular_array;
 pub mod minimum_moves_to_equal_array_elements;
+pub mod minimum_moves_to_equal_array_elements_ii;
 pub mod minimum_moves_to_spread_stones_over_grid;
 pub mod minimum_number_of_operations_to_convert_time;
 pub mod minimum_time_difference;
