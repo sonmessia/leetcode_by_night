@@ -141,6 +141,7 @@ pub mod minimum_operations_to_make_a_uni_value_grid;
 pub mod minimum_operations_to_make_the_integer_zero;
 pub mod minimum_pair_removal_to_sort_array_i;
 pub mod rotated_digits;
+pub mod rotate_string;
 pub mod minimum_pair_removal_to_sort_array_ii;
 pub mod minimum_removals_to_balance_array;
 pub mod minimum_score_triangulation_of_polygon;
