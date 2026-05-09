@@ -2,15 +2,15 @@ struct Solution;
 
 impl Solution {
     pub fn smallest_value(n: i32) -> i32 {
-        fn sum_of_prime_factors(mut n: i32) -> i32 {
+        fn sum_of_prime_FACTORs(mut n: i32) -> i32 {
             let mut sum = 0;
-            let mut factor = 2;
-            while factor * factor <= n {
-                while n % factor == 0 {
-                    sum += factor;
-                    n /= factor;
+            let mut FACTOR = 2;
+            while FACTOR * FACTOR <= n {
+                while n % FACTOR == 0 {
+                    sum += FACTOR;
+                    n /= FACTOR;
                 }
-                factor += 1;
+                FACTOR += 1;
             }
             if n > 1 {
                 sum += n;
@@ -20,7 +20,7 @@ impl Solution {
 
         let mut current = n;
         loop {
-            let next = sum_of_prime_factors(current);
+            let next = sum_of_prime_FACTORs(current);
             if next == current {
                 return current;
             }
