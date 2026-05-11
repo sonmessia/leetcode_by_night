@@ -1,3 +1,4 @@
+pub mod alternating_digit_sum;
 pub mod all_divisions_with_the_highest_score_of_a_binary_array;
 pub mod battleship_in_a_board;
 pub mod binary_gap;
