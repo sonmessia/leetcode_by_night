@@ -125,6 +125,7 @@ pub mod minimize_hamming_distance_after_swap_operations;
 pub mod minimize_maximum_pair_sum_in_array;
 pub mod minimum_absolute_difference;
 pub mod separate_the_digits_in_an_array;
+pub mod minimum_initial_energy_to_finish_tasks;
 pub mod minimum_absolute_difference_in_sliding_submatrix;
 pub mod minimum_ascii_delete_sum_for_two_strings;
 pub mod minimum_changes_to_make_alternating_binary_string;
