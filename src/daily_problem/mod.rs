@@ -181,6 +181,7 @@ pub mod rotated_digits;
 pub mod rotating_the_box;
 pub mod separate_squares_i;
 pub mod set_intersection_size_at_least_two;
+pub mod check_if_array_is_good;
 pub mod shortest_distance_to_target_string_in_a_circular_array;
 pub mod simple_bank_system;
 pub mod smallest_integer_divisible_by_k;
