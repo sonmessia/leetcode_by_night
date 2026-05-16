@@ -67,6 +67,7 @@ pub mod find_all_possible_stable_binary_arrays_i;
 pub mod find_all_possible_stable_binary_arrays_ii;
 pub mod find_kth_bit_in_nth_binary_string;
 pub mod find_minimum_in_rotated_sorted_array;
+pub mod find_minimum_in_rotated_sorted_array_ii;
 pub mod find_minimum_operations_to_make_all_elements_divisible_by_three;
 pub mod find_most_frequent_vowel_and_consonant;
 pub mod find_n_unique_integers_sum_up_to_zero;
