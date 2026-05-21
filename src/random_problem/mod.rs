@@ -51,6 +51,7 @@ pub mod find_winner_on_a_tic_tac_toe_game;
 pub mod find_xor_beauty_of_array;
 pub mod frequency_of_the_most_frequent_element;
 pub mod hash_divided_string;
+pub mod implement_trie_prefix_tree;
 pub mod insert_delete_getrandom_o1_duplicates_allowed;
 pub mod intersection_of_multiple_arrays;
 pub mod k_diff_pairs_in_an_array;
@@ -127,4 +128,3 @@ pub mod transpose_matrix;
 pub mod trapping_rain_water;
 pub mod xor_after_range_multiplication_queries_ii;
 pub mod zero_array_transformation_ii;
-
