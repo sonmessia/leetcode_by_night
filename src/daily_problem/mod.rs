@@ -94,6 +94,7 @@ pub mod increment_submatrices_by_one;
 pub mod jump_game_iii;
 pub mod jump_game_iv;
 pub mod jump_game_ix;
+pub mod jump_game_v;
 pub mod keep_multiplying_found_values_by_two;
 pub mod largest_magic_square;
 pub mod largest_submatrix_with_rearrangements;
