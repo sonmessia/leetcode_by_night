@@ -147,6 +147,7 @@ pub mod minimum_cost_to_convert_string_i;
 pub mod minimum_deletions_to_make_string_balanced;
 pub mod minimum_difference_between_highest_and_lowest_of_k_scores;
 pub mod minimum_distance_to_the_target_element;
+pub mod minimum_element_after_replacement_with_digit_sum;
 pub mod minimum_initial_energy_to_finish_tasks;
 pub mod minimum_jumps_to_reach_end_via_prime_teleportation;
 pub mod minimum_moves_to_make_array_complementary;
