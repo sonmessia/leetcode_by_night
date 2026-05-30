@@ -63,6 +63,7 @@ pub mod largest_perimeter_triangle;
 pub mod least_number_of_unique_integers_after_k_removals;
 pub mod lexicographically_smallest_negated_permutation_that_sums_to_target;
 pub mod longest_balanced_subarray_ii;
+pub mod longest_common_suffix_queries;
 pub mod longest_non_decreasing_subarray_from_two_arrays;
 pub mod longest_palindrome;
 pub mod longest_palindromic_subsequence;
