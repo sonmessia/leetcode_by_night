@@ -65,6 +65,8 @@ pub mod destroying_asteroids;
 pub mod detect_cycles_in_2d_grid;
 pub mod diagonal_traverse;
 pub mod divide_an_array_into_subarrays_with_minimum_cost_i;
+pub mod earliest_finish_time_for_land_and_water_rides_i;
+pub mod early_weakness_of_a_binary_string;
 pub mod equal_sum_grid_partition_i;
 pub mod fancy_sequence;
 pub mod final_value_of_variable_after_performing_operations;
