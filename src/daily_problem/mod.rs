@@ -106,6 +106,7 @@ pub mod largest_magic_square;
 pub mod largest_submatrix_with_rearrangements;
 pub mod largest_triangle_area;
 pub mod last_day_where_you_can_still_cross;
+pub mod left_and_right_sum_differences;
 pub mod lexicographically_smallest_string_after_applying_operations;
 pub mod longest_balanced_string_i;
 pub mod longest_balanced_string_ii;
