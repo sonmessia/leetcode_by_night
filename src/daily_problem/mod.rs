@@ -52,6 +52,7 @@ pub mod count_the_number_of_special_characters_ii;
 pub mod count_the_number_of_substrings_with_dominant_ones;
 pub mod count_unguarded_cells_in_the_grid;
 pub mod coupon_code_validator;
+pub mod create_binary_tree_from_descriptions;
 pub mod cyclically_rotating_a_grid;
 pub mod delete_column_to_make_sorted;
 pub mod delete_column_to_make_sorted_ii;
