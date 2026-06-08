@@ -186,6 +186,7 @@ pub mod number_of_zero_filled_subarrays;
 pub mod one_bit_and_2_bit_characters;
 pub mod ones_and_zeroes;
 pub mod pacific_atlantic_water_flow;
+pub mod partition_array_according_to_given_pivot;
 pub mod partitioning_into_minimum_number_of_deci_binary_numbers;
 pub mod paths_in_matrix_whose_sum_is_divisible_by_k;
 pub mod plus_one;
