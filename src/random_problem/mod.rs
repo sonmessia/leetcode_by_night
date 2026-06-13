@@ -99,6 +99,7 @@ pub mod most_popular_video_creator;
 pub mod non_decreasing_subsequences;
 pub mod number_of_pairs_of_interchangeable_rectangles;
 pub mod number_of_students_doing_homework_at_a_given_time;
+pub mod number_of_ways_to_assign_edge_weights_i;
 pub mod o1_matrix;
 pub mod online_election;
 pub mod optimal_partition_of_string;
