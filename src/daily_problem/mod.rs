@@ -58,6 +58,7 @@ pub mod delete_column_to_make_sorted;
 pub mod delete_column_to_make_sorted_ii;
 pub mod delete_column_to_make_sorted_iii;
 pub mod delete_nodes_from_linked_list_present_in_array;
+pub mod delete_the_middle_node_of_a_linked_list;
 pub mod design_a_food_rating_system;
 pub mod design_movie_rental_system;
 pub mod design_spreadsheet;
