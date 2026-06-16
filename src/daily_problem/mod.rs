@@ -194,6 +194,7 @@ pub mod partitioning_into_minimum_number_of_deci_binary_numbers;
 pub mod paths_in_matrix_whose_sum_is_divisible_by_k;
 pub mod plus_one;
 pub mod power_grid_maintenance;
+pub mod process_string_with_special_operations_i;
 pub mod pyramid_transition_matrix;
 pub mod replace_non_coprime_numbers_in_array;
 pub mod reverse_bits;
