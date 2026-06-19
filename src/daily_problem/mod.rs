@@ -82,6 +82,7 @@ pub mod find_most_frequent_vowel_and_consonant;
 pub mod find_n_unique_integers_sum_up_to_zero;
 pub mod find_resultant_array_after_removing_anagrams;
 pub mod find_smallest_letter_greater_than_target;
+pub mod find_the_highest_altitude;
 pub mod find_the_largest_area_of_square_inside_two_rectangle;
 pub mod find_the_length_of_the_longest_common_prefix;
 pub mod find_the_minimum_amount_of_time_to_brew_potions;
