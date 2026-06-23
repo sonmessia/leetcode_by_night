@@ -74,6 +74,7 @@ pub mod max_area_of_island;
 pub mod maximize_spanning_tree_stability_with_upgrades;
 pub mod maximize_the_confusion_of_an_exam;
 pub mod maximum_amount_of_money_robot_can_earn;
+pub mod maximum_ice_cream_bars;
 pub mod maximum_length_of_pair_chain;
 pub mod maximum_points_inside_the_square;
 pub mod maximum_points_you_can_obtain_from_cards;
