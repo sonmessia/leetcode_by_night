@@ -45,6 +45,7 @@ pub mod count_special_triplets;
 pub mod count_square_submatrices_with_all_ones;
 pub mod count_square_sum_triples;
 pub mod count_subarrays_with_majority_element_i;
+pub mod count_subarrays_with_majority_element_ii;
 pub mod count_submatrices_with_all_ones;
 pub mod count_submatrices_with_equal_frequence_of_x_and_y;
 pub mod count_submatrices_with_top_left_element_and_sum_less_than_k;
