@@ -129,6 +129,7 @@ pub mod sliding_window_maximum;
 pub mod special_binary_string;
 pub mod subarray_product_less_than_k;
 pub mod taking_maximum_energy_from_the_mystic_dungeon;
+pub mod top_k_frequent_words;
 pub mod transpose_matrix;
 pub mod trapping_rain_water;
 pub mod xor_after_range_multiplication_queries_ii;
