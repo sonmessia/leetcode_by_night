@@ -210,6 +210,7 @@ pub mod power_grid_maintenance;
 pub mod process_string_with_special_operations_i;
 pub mod process_string_with_special_operations_ii;
 pub mod pyramid_transition_matrix;
+pub mod rank_transform_of_an_array;
 pub mod remove_covered_intervals;
 pub mod replace_non_coprime_numbers_in_array;
 pub mod reverse_bits;
