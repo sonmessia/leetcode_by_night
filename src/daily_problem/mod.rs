@@ -204,6 +204,7 @@ pub mod pacific_atlantic_water_flow;
 pub mod partition_array_according_to_given_pivot;
 pub mod partitioning_into_minimum_number_of_deci_binary_numbers;
 pub mod path_existence_queries_in_a_graph_i;
+pub mod path_existence_queries_in_a_graph_ii;
 pub mod paths_in_matrix_whose_sum_is_divisible_by_k;
 pub mod plus_one;
 pub mod power_grid_maintenance;
