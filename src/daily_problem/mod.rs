@@ -223,6 +223,7 @@ pub mod rotated_digits;
 pub mod rotating_the_box;
 pub mod separate_squares_i;
 pub mod separate_the_digits_in_an_array;
+pub mod sequential_digits;
 pub mod set_intersection_size_at_least_two;
 pub mod shortest_distance_to_target_string_in_a_circular_array;
 pub mod simple_bank_system;
