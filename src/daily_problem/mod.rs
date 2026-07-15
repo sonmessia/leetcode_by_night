@@ -103,6 +103,7 @@ pub mod find_x_sum_of_all_k_long_subarrays_ii;
 pub mod flip_square_submatrix_vertically;
 pub mod four_divisor;
 pub mod fraction_to_recurring_decimal;
+pub mod gcd_of_odd_and_even_sums;
 pub mod get_biggest_three_rhombus_sums_in_a_grid;
 pub mod greatest_sum_divisible_by_three;
 pub mod implement_router;
