@@ -80,6 +80,7 @@ pub mod final_value_of_variable_after_performing_operations;
 pub mod find_a_safe_walk_through_a_grid;
 pub mod find_all_possible_stable_binary_arrays_i;
 pub mod find_all_possible_stable_binary_arrays_ii;
+pub mod find_greatest_common_divisor_of_array;
 pub mod find_kth_bit_in_nth_binary_string;
 pub mod find_minimum_in_rotated_sorted_array;
 pub mod find_minimum_in_rotated_sorted_array_ii;
