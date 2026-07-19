@@ -119,6 +119,7 @@ pub mod rank_teams_by_votes;
 pub mod rearrange_characters_to_make_target_string;
 pub mod rectangle_area;
 pub mod remove_all_adjacent_duplicates_in_string_ii;
+pub mod remove_duplicate_letters;
 pub mod rotate_list;
 pub mod search_in_rotated_sorted_array;
 pub mod search_in_rotated_sorted_array_ii;
