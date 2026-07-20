@@ -211,6 +211,7 @@ pub mod path_existence_queries_in_a_graph_ii;
 pub mod paths_in_matrix_whose_sum_is_divisible_by_k;
 pub mod plus_one;
 pub mod power_grid_maintenance;
+pub mod prime_number_of_set_bits_in_binary_representation;
 pub mod process_string_with_special_operations_i;
 pub mod process_string_with_special_operations_ii;
 pub mod pyramid_transition_matrix;
