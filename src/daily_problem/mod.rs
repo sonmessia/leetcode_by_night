@@ -129,6 +129,7 @@ pub mod make_array_elements_equal_to_zero;
 pub mod make_sum_divisible_by_p;
 pub mod max_dot_product_of_two_subsequences;
 pub mod maximal_rectangle;
+pub mod maximize_active_section_with_trade_i;
 pub mod maximize_area_of_square_hole_in_grid;
 pub mod maximum_area_of_longest_diagonal_rectangle;
 pub mod maximum_average_pass_ratio;
