@@ -131,6 +131,7 @@ pub mod shortest_path_in_binary_matrix;
 pub mod sliding_window_maximum;
 pub mod special_binary_string;
 pub mod subarray_product_less_than_k;
+pub mod substring_matching_pattern;
 pub mod taking_maximum_energy_from_the_mystic_dungeon;
 pub mod top_k_frequent_words;
 pub mod transpose_matrix;
