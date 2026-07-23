@@ -54,6 +54,7 @@ pub mod hash_divided_string;
 pub mod implement_trie_prefix_tree;
 pub mod insert_delete_getrandom_o1_duplicates_allowed;
 pub mod intersection_of_multiple_arrays;
+pub mod jewels_and_stones;
 pub mod k_diff_pairs_in_an_array;
 pub mod k_th_largest_perfect_subtree_size_in_binary_tree;
 pub mod largest_magic_square;
