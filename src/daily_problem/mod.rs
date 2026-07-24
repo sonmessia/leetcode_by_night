@@ -200,6 +200,7 @@ pub mod number_of_steps_to_reduce_a_number_in_binary_representation_to_one;
 pub mod number_of_substrings_containing_all_three_characters;
 pub mod number_of_substrings_with_only_1s;
 pub mod number_of_unique_xor_triplets_i;
+pub mod number_of_unique_xor_triplets_ii;
 pub mod number_of_ways_to_divide_a_long_corridor;
 pub mod number_of_ways_to_paint_n_3_grid;
 pub mod number_of_zero_filled_subarrays;
