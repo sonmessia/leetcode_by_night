@@ -102,6 +102,7 @@ pub mod network_recovery_pathways;
 pub mod non_decreasing_subsequences;
 pub mod number_of_pairs_of_interchangeable_rectangles;
 pub mod number_of_students_doing_homework_at_a_given_time;
+pub mod number_of_subarrays_that_match_a_pattern_i;
 pub mod number_of_unique_xor_triplets_ii;
 pub mod number_of_ways_to_assign_edge_weights_i;
 pub mod number_of_ways_to_assign_edge_weights_ii;
