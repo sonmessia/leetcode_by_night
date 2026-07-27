@@ -148,6 +148,7 @@ pub mod maximum_number_of_words_you_can_type;
 pub mod maximum_path_score_in_a_grid;
 pub mod maximum_product_of_splitted_binary_tree;
 pub mod maximum_product_of_two_digits;
+pub mod maximum_product_of_two_elements_in_an_array;
 pub mod maximum_profit_from_trading_stocks_with_discounts;
 pub mod maximum_running_time_of_n_computers;
 pub mod maximum_side_length_of_a_square_with_sum_less_than_or_equal_to_threshold;
