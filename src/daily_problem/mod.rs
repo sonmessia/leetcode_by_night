@@ -180,6 +180,7 @@ pub mod minimum_number_of_increments_on_subarrays_to_form_a_target_array;
 pub mod minimum_number_of_operations_to_make_all_array_elements_equal_to_1;
 pub mod minimum_number_of_people_to_teach;
 pub mod minimum_number_of_pushes_to_type_word_i;
+pub mod minimum_number_of_pushes_to_type_word_ii;
 pub mod minimum_number_of_seconds_to_make_mountian_height_zero;
 pub mod minimum_operations_to_convert_all_elements_to_zero;
 pub mod minimum_operations_to_make_a_uni_value_grid;
