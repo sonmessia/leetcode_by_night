@@ -74,6 +74,7 @@ pub mod longest_palindromic_subsequence_after_at_most_k_operations;
 pub mod longest_repeating_character_replacement;
 pub mod longest_substring_with_at_least_k_repeating_characters;
 pub mod longest_uncommon_subsequence_i;
+pub mod longest_valid_parentheses;
 pub mod max_area_of_island;
 pub mod maximize_spanning_tree_stability_with_upgrades;
 pub mod maximize_the_confusion_of_an_exam;
