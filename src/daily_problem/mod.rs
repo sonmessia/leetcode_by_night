@@ -248,6 +248,7 @@ pub mod sort_integers_by_the_number_of_1_bits;
 pub mod sort_matrix_by_diagonals;
 pub mod sort_vowels_in_a_string;
 pub mod special_positions_in_a_binary_matrix;
+pub mod stone_game;
 pub mod successful_pairs_of_spells_and_potions;
 pub mod sudoku_solver;
 pub mod sum_of_distances;
