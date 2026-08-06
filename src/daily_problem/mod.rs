@@ -241,6 +241,7 @@ pub mod set_intersection_size_at_least_two;
 pub mod shift_2d_grid;
 pub mod shortest_distance_to_target_string_in_a_circular_array;
 pub mod simple_bank_system;
+pub mod smallest_divisible_digit_product_i;
 pub mod smallest_integer_divisible_by_k;
 pub mod smallest_number_with_all_set_bits;
 pub mod smallest_palindromic_rearrangement_i;
