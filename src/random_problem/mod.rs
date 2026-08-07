@@ -117,6 +117,7 @@ pub mod online_election;
 pub mod optimal_partition_of_string;
 pub mod painting_a_grid_with_three_different_colors;
 pub mod palindrome_partitioning;
+pub mod palindrome_partitioning_ii;
 pub mod pancake_sorting;
 pub mod parallels_courses_ii;
 pub mod path_with_minimum_effort;
