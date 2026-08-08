@@ -147,5 +147,6 @@ pub mod taking_maximum_energy_from_the_mystic_dungeon;
 pub mod top_k_frequent_words;
 pub mod transpose_matrix;
 pub mod trapping_rain_water;
+pub mod unique_binary_search_trees_ii;
 pub mod xor_after_range_multiplication_queries_ii;
 pub mod zero_array_transformation_ii;
