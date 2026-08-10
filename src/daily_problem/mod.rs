@@ -254,6 +254,7 @@ pub mod special_positions_in_a_binary_matrix;
 pub mod stone_game;
 pub mod stone_game_ii;
 pub mod stone_game_iii;
+pub mod stone_game_iv;
 pub mod successful_pairs_of_spells_and_potions;
 pub mod sudoku_solver;
 pub mod sum_of_distances;
