@@ -252,6 +252,7 @@ pub mod sort_matrix_by_diagonals;
 pub mod sort_vowels_in_a_string;
 pub mod special_positions_in_a_binary_matrix;
 pub mod stone_game;
+pub mod stone_game_ii;
 pub mod stone_game_iii;
 pub mod successful_pairs_of_spells_and_potions;
 pub mod sudoku_solver;
