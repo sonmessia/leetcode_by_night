@@ -139,6 +139,7 @@ pub mod maximum_distance_between_a_pair_of_values;
 pub mod maximum_element_after_decreasing_and_rearranging;
 pub mod maximum_frequency_of_an_element_after_performing_operations_i;
 pub mod maximum_frequency_of_an_element_after_performing_operations_ii;
+pub mod maximum_length_substring_with_two_occurrences;
 pub mod maximum_level_sum_of_a_binary_tree;
 pub mod maximum_matrix_sum;
 pub mod maximum_non_negative_product_in_a_matrix;
