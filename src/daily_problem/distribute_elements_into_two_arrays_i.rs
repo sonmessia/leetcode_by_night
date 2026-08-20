@@ -14,7 +14,6 @@ impl Solution {
         }
 
         arr1.extend(arr2);
-
         arr1
     }
 }
