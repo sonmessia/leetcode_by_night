@@ -72,6 +72,7 @@ pub mod design_task_manager;
 pub mod destroying_asteroids;
 pub mod detect_cycles_in_2d_grid;
 pub mod diagonal_traverse;
+pub mod distribute_elements_into_two_arrays_i;
 pub mod divide_an_array_into_subarrays_with_minimum_cost_i;
 pub mod earliest_finish_time_for_land_and_water_rides_i;
 pub mod equal_sum_grid_partition_i;
