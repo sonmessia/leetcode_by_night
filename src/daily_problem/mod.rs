@@ -13,6 +13,7 @@ pub mod binary_watch;
 pub mod block_placement_queries;
 pub mod calculate_money_in_leetcode_bank;
 pub mod champagne_tower;
+pub mod check_divisibility_by_digit_sum_and_product;
 pub mod check_if_a_string_contains_all_binary_codes_of_size_k;
 pub mod check_if_all_1s_are_at_least_length_k_places_away;
 pub mod check_if_array_is_good;
