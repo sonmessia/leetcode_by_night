@@ -266,6 +266,7 @@ pub mod stone_game_iv;
 pub mod stone_game_ix;
 pub mod successful_pairs_of_spells_and_potions;
 pub mod sudoku_solver;
+pub mod sum_game;
 pub mod sum_of_distances;
 pub mod sum_of_gcd_of_formed_pairs;
 pub mod sum_of_root_to_leaf_binary_numbers;
