@@ -264,6 +264,7 @@ pub mod stone_game_ii;
 pub mod stone_game_iii;
 pub mod stone_game_iv;
 pub mod stone_game_ix;
+pub mod stone_game_viii;
 pub mod successful_pairs_of_spells_and_potions;
 pub mod sudoku_solver;
 pub mod sum_game;
