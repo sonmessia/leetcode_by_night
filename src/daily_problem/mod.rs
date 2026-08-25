@@ -251,6 +251,7 @@ pub mod simple_bank_system;
 pub mod smallest_divisible_digit_product_i;
 pub mod smallest_integer_divisible_by_k;
 pub mod smallest_missing_integer_greater_than_sequential_prefix_sum;
+pub mod smallest_missing_multiple_of_k;
 pub mod smallest_number_with_all_set_bits;
 pub mod smallest_palindromic_rearrangement_i;
 pub mod smallest_subsequence_of_distinct_characters;
