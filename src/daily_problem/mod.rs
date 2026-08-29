@@ -133,6 +133,7 @@ pub mod longest_balanced_subarray_i;
 pub mod longest_subsequence_with_non_zero_bitwise_xor;
 pub mod magic_squares_in_grid;
 pub mod make_array_elements_equal_to_zero;
+pub mod make_lexicographically_smallest_array_by_swapping_elements;
 pub mod make_sum_divisible_by_p;
 pub mod max_dot_product_of_two_subsequences;
 pub mod maximal_rectangle;
