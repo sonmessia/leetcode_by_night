@@ -237,6 +237,7 @@ pub mod pyramid_transition_matrix;
 pub mod rank_transform_of_an_array;
 pub mod remove_covered_intervals;
 pub mod remove_methods_from_project;
+pub mod removing_minimum_and_maximum_from_array;
 pub mod replace_non_coprime_numbers_in_array;
 pub mod reverse_bits;
 pub mod rotate_function;
