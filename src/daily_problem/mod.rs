@@ -32,6 +32,7 @@ pub mod concatenation_of_consecutive_binary_numbers;
 pub mod construct_product_matrix;
 pub mod construct_the_minimum_bitwise_array_i;
 pub mod construct_the_minimum_bitwise_array_ii;
+pub mod construct_uniform_parity_array_i;
 pub mod container_with_most_water;
 pub mod convert_integer_to_the_sum_of_two_no_zero_integers;
 pub mod count_collisions_on_a_road;
