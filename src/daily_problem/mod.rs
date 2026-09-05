@@ -263,6 +263,7 @@ pub mod smallest_missing_multiple_of_k;
 pub mod smallest_number_with_all_set_bits;
 pub mod smallest_palindromic_rearrangement_i;
 pub mod smallest_stable_index_i;
+pub mod smallest_stable_index_ii;
 pub mod smallest_subsequence_of_distinct_characters;
 pub mod smallest_subtree_with_all_the_deepest_nodes;
 pub mod sort_integers_by_the_number_of_1_bits;
