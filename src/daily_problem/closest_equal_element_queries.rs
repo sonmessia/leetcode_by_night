@@ -6,7 +6,7 @@ impl Solution {
     pub fn solve_queries(nums: Vec<i32>, queries: Vec<i32>) -> Vec<i32> {
         let mut indices_map: HashMap<i32, Vec<usize>> = HashMap::new();
         let n = nums.len();
-        let mut ans = vec![-1; queries.len()];
+        let mut ans = vec![-1; n];
 
         for i in 0..n {
             indices_map.entry(nums[i]).or_insert(Vec::new()).push(i);
