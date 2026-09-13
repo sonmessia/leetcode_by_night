@@ -118,6 +118,7 @@ pub mod fraction_to_recurring_decimal;
 pub mod gcd_of_odd_and_even_sums;
 pub mod get_biggest_three_rhombus_sums_in_a_grid;
 pub mod greatest_sum_divisible_by_three;
+pub mod image_overlap;
 pub mod implement_router;
 pub mod increment_submatrices_by_one;
 pub mod jump_game_iii;
