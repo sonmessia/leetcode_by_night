@@ -242,6 +242,7 @@ pub mod process_string_with_special_operations_i;
 pub mod process_string_with_special_operations_ii;
 pub mod pyramid_transition_matrix;
 pub mod rank_transform_of_an_array;
+pub mod rectangle_overlap;
 pub mod remove_covered_intervals;
 pub mod remove_methods_from_project;
 pub mod removing_minimum_and_maximum_from_array;
