@@ -160,6 +160,7 @@ pub mod maximum_non_negative_product_in_a_matrix;
 pub mod maximum_number_of_balloons;
 pub mod maximum_number_of_distinct_elements_after_operations;
 pub mod maximum_number_of_jumps_to_reach_the_last_index;
+pub mod maximum_number_of_non_overlapping_palindrome_substrings;
 pub mod maximum_number_of_operations_to_move_ones_to_the_end;
 pub mod maximum_number_of_words_you_can_type;
 pub mod maximum_path_score_in_a_grid;
