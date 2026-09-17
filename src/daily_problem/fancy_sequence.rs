@@ -65,12 +65,3 @@ impl Fancy {
         (((self.seq[i] * self.mult) as i64 % MOD + self.add as i64) % MOD) as i32
     }
 }
-
-/**
- * Your Fancy object will be instantiated and called as such:
- * let obj = Fancy::new();
- * obj.append(val);
- * obj.add_all(inc);
- * obj.mult_all(m);
- * let ret_4: i32 = obj.get_index(idx);
- */
