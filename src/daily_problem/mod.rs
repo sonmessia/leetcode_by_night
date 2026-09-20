@@ -251,6 +251,7 @@ pub mod remove_methods_from_project;
 pub mod removing_minimum_and_maximum_from_array;
 pub mod replace_non_coprime_numbers_in_array;
 pub mod reverse_bits;
+pub mod reverse_degree_of_a_string;
 pub mod rotate_function;
 pub mod rotate_image;
 pub mod rotate_string;
