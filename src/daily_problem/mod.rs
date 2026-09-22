@@ -114,6 +114,7 @@ pub mod find_two_non_overlapping_sub_arrays_each_with_target_sum;
 pub mod find_unique_binary_string;
 pub mod find_x_sum_of_all_k_long_subarrays_i;
 pub mod find_x_sum_of_all_k_long_subarrays_ii;
+pub mod find_x_value_of_array_i;
 pub mod flip_square_submatrix_vertically;
 pub mod four_divisor;
 pub mod fraction_to_recurring_decimal;
