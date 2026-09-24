@@ -267,6 +267,7 @@ pub mod shortest_and_lexicographically_smallest_beautiful_string;
 pub mod shortest_distance_to_target_string_in_a_circular_array;
 pub mod simple_bank_system;
 pub mod smallest_divisible_digit_product_i;
+pub mod smallest_index_with_digit_sum_equal_to_index;
 pub mod smallest_integer_divisible_by_k;
 pub mod smallest_missing_integer_greater_than_sequential_prefix_sum;
 pub mod smallest_missing_multiple_of_k;
