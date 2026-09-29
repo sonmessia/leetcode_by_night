@@ -22,6 +22,7 @@ pub mod check_if_binary_string_has_at_most_one_segment_of_ones;
 pub mod check_if_digits_are_equal_in_string_after_operations_i;
 pub mod check_if_strings_can_be_made_equal_with_operations_i;
 pub mod check_if_strings_can_be_made_equal_with_operations_ii;
+pub mod check_if_there_is_a_valid_parentheses_string_path;
 pub mod cinema_seat_allocation;
 pub mod circle_and_rectangle_overlapping;
 pub mod closest_equal_element_queries;
