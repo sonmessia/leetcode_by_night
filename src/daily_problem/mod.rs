@@ -311,6 +311,7 @@ pub mod two_best_non_overlapping_events;
 pub mod two_furthest_houses_with_different_colors;
 pub mod unique_3_digit_even_numbers;
 pub mod unique_length_3_palindromic_subsequences;
+pub mod valid_parentheses;
 pub mod valid_sudoku;
 pub mod valid_triangle_number;
 pub mod vowel_spellchecker;
