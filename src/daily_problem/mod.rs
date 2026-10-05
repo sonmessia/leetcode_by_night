@@ -263,6 +263,7 @@ pub mod rotate_image;
 pub mod rotate_string;
 pub mod rotated_digits;
 pub mod rotating_the_box;
+pub mod score_of_parentheses;
 pub mod separate_squares_i;
 pub mod separate_the_digits_in_an_array;
 pub mod sequential_digits;
