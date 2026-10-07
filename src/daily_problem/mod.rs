@@ -186,6 +186,7 @@ pub mod minimize_hamming_distance_after_swap_operations;
 pub mod minimize_maximum_pair_sum_in_array;
 pub mod minimum_absolute_difference;
 pub mod minimum_absolute_difference_in_sliding_submatrix;
+pub mod minimum_add_to_make_parentheses_valid;
 pub mod minimum_ascii_delete_sum_for_two_strings;
 pub mod minimum_changes_to_make_alternating_binary_string;
 pub mod minimum_common_value;
