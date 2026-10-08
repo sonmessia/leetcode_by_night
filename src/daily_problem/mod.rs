@@ -254,6 +254,7 @@ pub mod rank_transform_of_an_array;
 pub mod rectangle_overlap;
 pub mod remove_covered_intervals;
 pub mod remove_methods_from_project;
+pub mod remove_outermost_parentheses;
 pub mod removing_minimum_and_maximum_from_array;
 pub mod replace_non_coprime_numbers_in_array;
 pub mod reverse_bits;
