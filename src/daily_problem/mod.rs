@@ -199,6 +199,7 @@ pub mod minimum_difference_between_highest_and_lowest_of_k_scores;
 pub mod minimum_distance_to_the_target_element;
 pub mod minimum_element_after_replacement_with_digit_sum;
 pub mod minimum_initial_energy_to_finish_tasks;
+pub mod minimum_insertions_to_balance_a_parentheses_string;
 pub mod minimum_jumps_to_reach_end_via_prime_teleportation;
 pub mod minimum_moves_to_clean_the_classroom;
 pub mod minimum_moves_to_make_array_complementary;
