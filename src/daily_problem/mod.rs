@@ -3,6 +3,7 @@ pub mod adjacent_increasing_subarrays_detection_ii;
 pub mod alice_and_bob_playing_flower_game;
 pub mod angle_between_hands_of_a_clock;
 pub mod apple_redistribution_into_boxes;
+pub mod apply_operations_on_array_to_maximize_sum_of_squares;
 pub mod avoid_flood_in_the_city;
 pub mod balance_a_binary_search_tree;
 pub mod balanced_binary_tree;
