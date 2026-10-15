@@ -154,6 +154,7 @@ pub mod max_dot_product_of_two_subsequences;
 pub mod maximal_rectangle;
 pub mod maximize_active_section_with_trade_i;
 pub mod maximize_area_of_square_hole_in_grid;
+pub mod maximize_sum_of_squares_of_digits;
 pub mod maximum_area_of_longest_diagonal_rectangle;
 pub mod maximum_average_pass_ratio;
 pub mod maximum_distance_between_a_pair_of_values;
