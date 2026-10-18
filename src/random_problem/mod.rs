@@ -39,6 +39,7 @@ pub mod earliest_finish_time_for_land_and_water_rides_ii;
 pub mod edit_distance;
 pub mod excel_sheet_column_number;
 pub mod excel_sheet_column_title;
+pub mod find_duplicate_subtrees;
 pub mod find_first_and_last_position_of_element_in_sorted_array;
 pub mod find_largest_group_size_of_m;
 pub mod find_polygon_with_the_largest_perimeter;
