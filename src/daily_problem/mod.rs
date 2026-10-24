@@ -304,6 +304,7 @@ pub mod stone_game_iv;
 pub mod stone_game_ix;
 pub mod stone_game_viii;
 pub mod subarrays_distinct_element_sum_of_squares_i;
+pub mod subarrays_distinct_element_sum_of_squares_ii;
 pub mod successful_pairs_of_spells_and_potions;
 pub mod sudoku_solver;
 pub mod sum_game;
