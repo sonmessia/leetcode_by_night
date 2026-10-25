@@ -232,6 +232,7 @@ pub mod minimum_total_distance_traveled;
 pub mod mirror_distance_of_an_integer;
 pub mod n_repeated_element_in_size_2n_array;
 pub mod next_greater_numerically_balanced_number;
+pub mod number_of_closed_islands;
 pub mod number_of_laser_beams_in_a_bank;
 pub mod number_of_people_aware_of_a_secret;
 pub mod number_of_smooth_descent_period_of_a_stock;
