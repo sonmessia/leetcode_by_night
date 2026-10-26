@@ -44,6 +44,7 @@ pub mod count_commas_range_ii;
 pub mod count_covered_buildings;
 pub mod count_days_spent_together;
 pub mod count_elements_with_maximum_frequency;
+pub mod count_islands_with_total_value_divisible_by_k;
 pub mod count_mentions_per_user;
 pub mod count_negative_numbers_in_a_sorted_matrix;
 pub mod count_nodes_equal_to_average_of_subtree;
