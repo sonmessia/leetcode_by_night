@@ -230,6 +230,7 @@ pub mod minimum_swaps_to_sort_by_digit_sum;
 pub mod minimum_time_to_make_rope_colorful;
 pub mod minimum_time_visiting_all_points;
 pub mod minimum_total_distance_traveled;
+pub mod minimum_xor_path_in_a_grid;
 pub mod mirror_distance_of_an_integer;
 pub mod n_repeated_element_in_size_2n_array;
 pub mod next_greater_numerically_balanced_number;
