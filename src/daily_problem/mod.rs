@@ -26,6 +26,7 @@ pub mod check_if_strings_can_be_made_equal_with_operations_ii;
 pub mod check_if_there_is_a_valid_parentheses_string_path;
 pub mod cinema_seat_allocation;
 pub mod circle_and_rectangle_overlapping;
+pub mod climbing_stairs_ii;
 pub mod closest_equal_element_queries;
 pub mod compare_version_numbers;
 pub mod complement_of_base_10_integer;
