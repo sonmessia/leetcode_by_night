@@ -203,6 +203,7 @@ pub mod minimum_common_value;
 pub mod minimum_cost_of_buying_candies_with_discount;
 pub mod minimum_cost_path_with_edge_reversals;
 pub mod minimum_cost_path_with_teleportations;
+pub mod minimum_cost_to_acquire_required_items;
 pub mod minimum_cost_to_convert_string_i;
 pub mod minimum_deletions_to_make_string_balanced;
 pub mod minimum_difference_between_highest_and_lowest_of_k_scores;
