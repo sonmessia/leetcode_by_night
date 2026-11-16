@@ -12,6 +12,7 @@ pub mod best_time_to_buy_and_sell_stock_v;
 pub mod binary_prefix_divisible_by_5;
 pub mod binary_watch;
 pub mod block_placement_queries;
+pub mod calculate_digit_sum_of_string;
 pub mod calculate_money_in_leetcode_bank;
 pub mod champagne_tower;
 pub mod check_divisibility_by_digit_sum_and_product;
