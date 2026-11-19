@@ -230,6 +230,7 @@ pub mod minimum_pair_removal_to_sort_array_i;
 pub mod minimum_pair_removal_to_sort_array_ii;
 pub mod minimum_positive_sum_subarray;
 pub mod minimum_removals_to_balance_array;
+pub mod minimum_score_by_changing_two_elements;
 pub mod minimum_score_of_a_path_between_two_cities;
 pub mod minimum_score_triangulation_of_polygon;
 pub mod minimum_swaps_to_arrange_a_binary_grid;
