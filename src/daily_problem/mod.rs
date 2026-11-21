@@ -162,6 +162,7 @@ pub mod max_dot_product_of_two_subsequences;
 pub mod maximal_rectangle;
 pub mod maximize_active_section_with_trade_i;
 pub mod maximize_area_of_square_hole_in_grid;
+pub mod maximize_consecutive_elements_in_an_array_after_modification;
 pub mod maximize_sum_of_squares_of_digits;
 pub mod maximum_alternating_sum_of_squares;
 pub mod maximum_area_of_longest_diagonal_rectangle;
