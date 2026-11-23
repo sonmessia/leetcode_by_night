@@ -273,6 +273,7 @@ pub mod prime_number_of_set_bits_in_binary_representation;
 pub mod process_string_with_special_operations_i;
 pub mod process_string_with_special_operations_ii;
 pub mod process_tasks_using_servers;
+pub mod product_of_the_last_k_numbers;
 pub mod pyramid_transition_matrix;
 pub mod rank_transform_of_an_array;
 pub mod rectangle_overlap;
